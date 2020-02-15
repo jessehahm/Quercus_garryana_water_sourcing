@@ -1,0 +1,766 @@
+index,ERCZO ID,Original Sample Vial Label,Date Collected,Time Collected,Site,Location,Sample Type,Sample Type II,Sample Type III,Tree tag,Tree tag 2,Species (common),Species (scientific),Well water level (m),Depth (m),Depth (cm),Depth (ft),Gravimetric moisture content (g/g),Collected by,Notes,Exclude?,dD Instrument,dO Instrument,HD run ID,dD,GB run ID,dO,Adjacent well groundwater depth at time of sampling (m),Energetic State,Date collection started,Time collection started,"(obsolete, miscalculated) Gravimetric moisture content (g/g)","(obsolete, miscalculated) Gravimetric moisture content (g/g).1"
+27,28.0,204 8/6/15,2015-08-06,,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,>2,,,,,Wong,,,,,454,-58.5,621,-7.06,>2,,,,,
+28,29.0,T208 8/6/15 Melange N.,2015-08-06,,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,Wong,,,,,454,-61.3,621,-7.98,>2,,,,,
+30,31.0,T209 8/6/15 Melange N.,2015-08-06,,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,>2,,,,,Wong,,,,,454,-58.5,621,-7.51,>2,,,,,
+31,32.0,207 8/6/15,2015-08-06,,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,>2,,,,,Wong,,,,,454,-60.6,621,-8.24,>2,,,,,
+32,33.0,206 8/6/15,2015-08-06,,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,>2,,,,,Wong,,,,,454,-68.3,621,-10.42,>2,,,,,
+33,34.0,205 8/6/15,2015-08-06,,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,>2,,,,,Wong,,,,,454,-70.3,621,-10.84,,,,,,
+68,69.0,501 7m 092515,2015-09-25,,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,468,-52.0,637,-7.69,,,,,,
+70,71.0,W500 120915,2015-12-09,,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,468,-44.8,637,-7.06,,,,,,
+71,72.0,W501 120915,2015-12-09,,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,468,-35.3,637,-5.96,,,,,,
+72,73.0,W502 120915,2015-12-09,,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,468,-45.2,637,-7.33,,,,,,
+74,75.0,W506 120915,2015-12-09,,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,468,-30.7,637,-5.58,,,,,,
+75,76.0,W507 120915,2015-12-09,,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,468,-29.6,637,-5.82,,,,,,
+76,77.0,W508 120915,2015-12-09,,Sagehorn,W508,Water,Well water,,,,,,,,,,,,,,,,468,-32.1,637,-6.06,,,,,,
+77,78.0,MN1 120915,2015-12-09,,Sagehorn,MN1,Water,Well water,,,,,,,,,,,,0.28 cm,,,,468,-44.9,637,-7.56,,,,,,
+78,79.0,MS4 120915,2015-12-09,,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,"0 m, water at surface. Complete saturation, overland flow.",,,,468,-43.7,637,-6.85,,,,,,
+79,80.0,Dry 121015,2015-12-10,16:11,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,468,-34.9,637,-6.31,,,,,,
+92,93.0,Dry 010516,2016-01-05,14:20,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,469,-48.0,638,-7.68,,,,,,
+97,98.0,Dry 010716,2016-01-07,17:00,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,469,-48.4,638,-7.59,,,,,,
+116,117.0,SH501 123015,2015-12-30,,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,469,-50.6,638,-7.77,,,,,,
+117,118.0,SH502 123015,2015-12-30,,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,469,-46.3,638,-7.15,,,,,,
+119,120.0,SH506 123015,2015-12-30,,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,469,-37.1,638,-6.46,,,,,,
+120,121.0,SH507 123015,2015-12-30,,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,469,-41.5,638,-6.13,,,,,,
+121,122.0,SH508 123015,2015-12-30,,Sagehorn,W508,Water,Well water,,,,,,,,,,,,,,,,469,-36.4,638,-6.33,,,,,,
+122,123.0,Dry 123015,2015-12-30,12:31,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,469,-44.4,638,-6.52,,,,,,
+124,125.0,M1,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.07312290769999999,Wong,Melange North 1. Auger hole near T208,,,,454,-51.6,621,-2.54,,,,,0.0681,
+125,126.0,M2,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.07773499734,Wong,Melange North 1. Auger hole near T208,,,,454,-58.8,621,-5.59,,,,,0.0721,
+126,127.0,M3,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Soil,,,,,,0.3,30,,0.08596895386,Wong,Melange North 1. Auger hole near T208,,,,454,-62.1,621,-7.59,,,,,0.0792,
+127,128.0,M4,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Soil,,,,,,0.4,40,,0.1452544524,Wong,Melange North 1. Auger hole near T208,,,,454,-66.0,621,-8.79,,,,,0.1268,
+128,129.0,M5,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Saprolite,,,,,,0.5,50,,0.1357519974,Wong,Melange North 1. Auger hole near T208,,,,454,-64.9,621,-7.04,,,,,0.1195,0.0819
+129,130.0,M6,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Saprolite,,,,,,0.6,60,,0.1435819971,,Melange North 1. Auger hole near T208,,,,468,-67.9,637,-9.34,,,,,0.1256,0.13
+130,131.0,M7,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.65,65,,0.09937662432,,Melange North 1. Auger hole near T208,,,,468,-67.4,637,-10.01,,,,,0.0904,0.1558
+131,132.0,M8,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.7,70,,0.09749427287999997,,Melange North 1. Auger hole near T208,,,,468,-63.8,637,-9.76,,,,,0.0888,
+132,133.0,M9,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.75,75,,0.08977728593,,Melange North 1. Auger hole near T208,,,,468,-71.8,637,-10.38,,,,,0.0824,0.187
+133,134.0,M10,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.8,80,,0.0872432735,,Melange North 1. Auger hole near T208,,,,468,-68.3,637,-10.35,,,,,0.0802,0.1849
+134,135.0,M11,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.8,80,,0.09593901241,,Melange North 1. Auger hole near T208,,,,468,-67.0,637,-9.59,,,,,0.0875,0.1102
+135,136.0,M12,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.8,80,,0.06727759975,,Melange North 1. Auger hole near T208. Rock,,,,468,-59.6,637,-11.25,,,,,0.063,0.1483
+136,137.0,M13,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.85,85,,0.09093782228,,Melange North 1. Auger hole near T208,,,,468,-63.6,637,-9.85,,,,,0.0834,0.1581
+137,138.0,M14,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.85,85,,0.06430397154,,Melange North 1. Auger hole near T208. Rock,,,,468,-60.7,637,-9.75,,,,,0.0604,0.0593
+138,139.0,M15,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.95,95,,0.08649889055,,Melange North 1. Auger hole near T208,,,,468,-64.1,637,-10.63,,,,,0.0796,0.079
+139,140.0,M16,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.95,95,,0.08274070466,,Melange North 1. Auger hole near T208,,,,468,-68.7,637,-10.62,,,,,0.0764,0.1218
+140,141.0,M17,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.05,105,,0.09503701574,,Melange North 1. Auger hole near T208,,,,468,-65.1,637,-10.38,,,,,0.0868,0.0699
+141,142.0,M18,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.05,105,,0.08656388764,,Melange North 1. Auger hole near T208,,,,468,-64.6,637,-10.31,,,,,0.0797,0.1506
+142,143.0,M19,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.05,105,,0.06555231311000001,,Melange North 1. Auger hole near T208. Rock,,,,468,-62.2,637,-12.2,,,,,0.0615,0.0735
+143,144.0,M20,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.1,110,,0.1155053599,,Melange North 1. Auger hole near T208,,,,468,-65.3,637,-10.02,,,,,0.1036,0.0779
+144,145.0,M21,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.2,120,,0.07097687373,,Melange North 1. Auger hole near T208. Rock,,,,469,-63.7,638,-12.48,,,,,0.0663,0.171
+145,146.0,M22,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.2,120,,0.1033354822,,Melange North 1. Auger hole near T208,,,,469,-68.1,638,-10.13,,,,,0.0937,0.0711
+146,147.0,M23,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.25,125,,0.07885627578,,Melange North 1. Auger hole near T208,,,,468,-61.5,637,-11.04,,,,,0.0731,0.0657
+147,148.0,M24,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.25,125,,0.09381976148,,Melange North 1. Auger hole near T208,,,,468,-68.0,637,-10.02,,,,,0.0858,0.0871
+148,149.0,M25,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.3,130,,0.06395359612000001,,Melange North 1. Auger hole near T208,,,,468,-65.7,637,-11.16,,,,,0.0601,0.0672
+149,150.0,M26,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.42,142,,0.08067927048,,Melange North 1. Auger hole near T208,,,,469,-65.8,638,-9.67,,,,,0.0747,0.0908
+150,151.0,M27,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.55,155,,0.08712731133,,Melange North 1. Auger hole near T208,,,,469,-74.4,638,-10.29,,,,,0.0801,0.0696
+151,152.0,M28,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.55,155,,0.1065831322,,Melange North 1. Auger hole near T208,,,,469,-69.3,638,-9.82,,,,,0.0963,0.0707
+152,153.0,M29,2015-08-03,,Sagehorn,MN1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.55,155,,0.09845799362,,Melange North 1. Auger hole near T208,,,,468,-66.7,637,-9.69,,,,,0.0896,0.0645
+153,154.0,M30,2015-08-03,,Sagehorn,MS1 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.1035025138,,Auger hole on South slope,,,,469,-43.2,638,0.57,,,,,0.0938,0.0931
+154,155.0,M31,2015-08-03,,Sagehorn,MS1 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.08998442441,,Auger hole on South slope,,,,469,-58.1,638,-5.22,,,,,0.0826,0.0827
+155,156.0,M32,2015-08-03,,Sagehorn,MS1 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.3,30,,0.07402460177,,Auger hole on South slope,,,,469,-57.7,638,-4.23,,,,,0.0689,0.1161
+156,157.0,M33,2015-08-03,,Sagehorn,MS1 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.4,40,,0.06764700323,,Auger hole on South slope. Rock,,,,468,-60.2,637,-6.7,,,,,0.0634,0.0951
+157,158.0,M34,2015-08-03,,Sagehorn,MS1 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.4,40,,0.06136962248,,Auger hole on South slope,,,,468,-59.6,637,-8.29,,,,,0.0578,0.1181
+158,159.0,M35,2015-08-03,,Sagehorn,MS1 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.45,45,,0.08217147982999999,,Auger hole on South slope,,,,468,-60.3,637,-8.46,,,,,0.0759,0.1045
+159,160.0,M36,2015-08-03,,Sagehorn,MS1 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.55,55,,0.09327517,,Auger hole on South slope,,,,468,-60.2,637,-9.43,,,,,0.0853,0.1019
+160,161.0,M264,2015-09-27,,Sagehorn,W504,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.152,15.2,0.5,0.03385317611,,SPT Core. Drilling Well 504,,,,469,-37.4,638,3.34,,,,,0.0327,0.15
+161,162.0,M265,2015-09-27,,Sagehorn,W504,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.305,30.5,1.0,0.041021846810000005,,SPT Core. Drilling Well 504,,,,469,-59.1,638,-2.48,,,,,0.0394,0.0747
+162,163.0,M266,2015-09-27,,Sagehorn,W504,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.914,91.4,3.0,0.02942647415,,SPT Core. Drilling Well 504,,,,469,-70.6,638,-9.42,,,,,0.0286,0.0741
+163,164.0,M267,2015-09-27,,Sagehorn,W504,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.61,61,2.0,0.02995255042,,SPT Core. Drilling Well 504,,,,469,-69.5,638,-8.32,,,,,0.0291,0.0741
+164,165.0,M268,2015-09-27,,Sagehorn,W504,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.219,121.9,4.0,0.03030803808,,SPT Core. Drilling Well 504,,,,469,-62.7,638,-8.18,,,,,0.0294,0.0986
+165,166.0,M269,2015-09-27,,Sagehorn,W504,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.524,152.4,5.0,0.0264891712,,SPT Core. Drilling Well 504,,,,469,-68.1,638,-9.44,,,,,0.0258,0.09
+166,167.0,M270,2015-09-27,,Sagehorn,W504,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.829,182.9,6.0,0.02504441605,,SPT Core. Drilling Well 504,,,,469,-68.4,638,-9.67,,,,,0.0244,0.1352
+167,168.0,M301,2015-09-27,,Sagehorn,W507,Soil or rock,Drilled material,Fresh bedrock,,,,,,5.334,533.4,17.5,0.09664832901,,SPT Core. Drilling Well 507,,,,469,-58.0,638,-7.61,,saturated,,,0.0881,0.1103
+168,169.0,M303,2015-09-27,,Sagehorn,W507,Soil or rock,Drilled material,Fresh bedrock,,,,,,6.706,670.6,22.0,0.108991403,,SPT Core. Drilling Well 507,,,,469,-56.3,638,-8.75,,saturated,,,0.0983,0.1251
+169,170.0,M304,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Soil,,,,,,0.0,0,0.0,0.0499608534,,SPT Core. Drilling Well 500,,,,469,-32.5,638,1.46,,,,,0.0476,0.1441
+170,171.0,M305,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.61,61,2.0,0.07961701581,,SPT Core. Drilling Well 500,,,,469,-62.0,638,-8.63,,,,,0.0738,0.1204
+171,172.0,M306,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.914,91.4,3.0,0.04920320188,,SPT Core. Drilling Well 500,,,,469,-61.5,638,-9.95,,,,,0.0469,0.1135
+172,173.0,M307,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.219,121.9,4.0,0.057304231279999986,,SPT Core. Drilling Well 500,,,,469,-67.2,638,-10.19,,,,,0.0542,0.08967292839
+173,174.0,M308,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.524,152.4,5.0,0.05969485178,,SPT Core. Drilling Well 500,,,,469,-67.0,638,-9.37,,,,,0.0563,0.08707705012
+174,175.0,M309,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.676,167.6,5.5,0.04129525196,,SPT Core. Drilling Well 500,,,,469,-70.5,638,-9.35,,,,,0.0397,0.1103621866
+175,176.0,M310,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.981,198.1,6.5,0.1527526852,,SPT Core. Drilling Well 500,,,,469,-63.2,638,-9.05,,,,,0.1325,0.1102281164
+176,177.0,M311,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,3.048,304.8,10.0,0.08707933895,,SPT Core. Drilling Well 500,,,,469,-58.9,638,-8.09,,,,,0.0801,0.1531
+177,178.0,M312,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,3.658,365.8,12.0,0.05021734157,,SPT Core. Drilling Well 500,,,,469,-60.8,638,-9.03,,saturated,,,0.0478,0.1135
+178,179.0,M313,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,2.438,243.8,8.0,0.1382420855,,SPT Core. Drilling Well 500,,,,469,-61.7,638,-8.93,,,,,0.1215,0.1369
+179,180.0,M314,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,2.591,259.1,8.5,0.1147642567,,SPT Core. Drilling Well 500,,,,469,-60.3,638,-8.82,,,,,0.103,0.1672
+180,181.0,M315,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,2.7430000000000003,274.3,9.0,0.04098646639,,SPT Core. Drilling Well 500,,,,469,-66.3,638,-9.08,,,,,0.0394,0.1137
+181,182.0,M316,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Weathered bedrock,,,,,,3.962,396.2,13.0,0.0328310788,,SPT Core. Drilling Well 500,,,,469,-57.7,638,-9.73,,saturated,,,0.0318,0.1416
+182,183.0,M317,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Fresh bedrock,,,,,,5.182,518.2,17.0,0.0326369764,,SPT Core. Drilling Well 500,,,,469,-52.4,638,-7.29,,saturated,,,0.0316,0.14800000000000002
+184,185.0,M319,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Fresh bedrock,,,,,,5.791,579.1,19.0,0.04388352011,,SPT Core. Drilling Well 500,,,,469,-54.6,638,-7.72,,saturated,,,0.042,0.1237
+185,186.0,M320,2015-09-28,,Sagehorn,W500,Soil or rock,Drilled material,Fresh bedrock,,,,,,6.706,670.6,22.0,0.08041038021000001,,SPT Core. Drilling Well 500,,,,469,-56.9,638,-8.39,,saturated,,,0.0744,0.1344
+217,218.0,M50,2015-08-04,,Sagehorn,MS3 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.081218599,,,,,,471,-46.2,640,-0.65,,,,,0.0751,0.2396
+218,219.0,M57,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.4,140,,0.07676406788,,,,,,471,-59.3,640,-9.24,,,,,0.0713,0.1636
+219,220.0,M56,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.3,130,,0.07404613376000001,,,,,,471,-59.2,640,-9.25,,,,,0.0689,0.1976
+220,221.0,M58,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.45,145,,0.0769621774,,,,,,471,-58.0,640,-9.1,,,,,0.0715,0.1743
+221,222.0,M55,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.1,110,,0.07612270783,,,,,,471,-59.3,640,-9.55,,,,,0.0707,0.1801
+222,223.0,M302,2015-09-27,,Sagehorn,W507,Soil or rock,Drilled material,Fresh bedrock,,,,,,7.315,731.5,24.0,0.04789972101,,,,,,471,-57.7,640,-9.04,,saturated,,,0.0457,0.1096
+223,224.0,M54,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.0,100,,0.09007645144,,,,,,471,-60.3,640,-8.48,,,,,0.0826,0.1739
+224,225.0,M53,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.9,90,,0.1031921751,,,,,,471,-60.9,640,-8.06,,,,,0.0935,0.2671
+225,226.0,M59,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.53,153,,0.07106940048999999,,,,,,471,-57.7,640,-8.98,,,,,0.0664,0.1664
+226,227.0,M51,2015-08-04,,Sagehorn,MS3 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.08406309892000001,,,,,,471,-58.8,640,-5.98,,,,,0.0775,0.2156
+227,228.0,M52,2015-08-04,,Sagehorn,MS3 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.25,25,,0.08291539306,,,,,,471,-58.9,640,-5.85,,,,,0.0766,0.2267
+228,229.0,M60,2015-08-04,,Sagehorn,MS4,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.57,157,,0.09729208476,,,,,,471,-56.7,640,-8.38,,,,,0.0887,0.1588
+229,230.0,M40,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Soil,,,,,,0.4,40,,0.06601213137,,,,,,471,-58.8,640,-7.39,,,,,0.0619,0.0665
+230,231.0,M39,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Soil,,,,,,0.3,30,,0.06525013229,,,,,,471,-60.5,640,-6.83,,,,,0.0613,0.0706
+231,232.0,M38,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.04396642466,,,,,,471,-51.3,640,-3.15,,,,,0.0421,0.07200000000000001
+232,233.0,M42,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Soil,,,,,,0.6,60,,0.0964056408,,,,,,471,-64.0,640,-9.02,,,,,0.0879,0.2725
+234,235.0,M43,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Saprolite,,,,,,0.7,70,,0.08590318046,,,,,,471,-64.5,640,-8.6,,,,,0.0791,0.2367
+235,236.0,M41,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Soil,,,,,,0.5,50,,0.0838706828,,,,,,471,-65.3,640,-8.9,,,,,0.0774,0.0846
+236,237.0,M37,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.022888911150000003,,,,,,471,-57.9,640,-2.9,,,,,0.0224,0.0739
+237,238.0,M46,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Saprolite,,,,,,0.9,90,,0.08446341078,,,,,,471,-63.8,640,-9.38,,,,,0.0779,0.1698
+238,239.0,M45,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Saprolite,,,,,,0.8,80,,0.06615234239000001,,,,,,471,-62.3,640,-9.11,,,,,0.0621,0.1773
+239,240.0,M44,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Saprolite,,,,,,0.75,75,,0.09130224961,,,,,,471,-60.5,640,-7.86,,,,,0.0837,0.1925
+240,241.0,M47,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Saprolite,,,,,,0.9,90,,0.08109413575,,,,,,471,-64.8,640,-9.13,,,,,0.075,0.1514
+241,242.0,M48,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Saprolite,,,,,,0.92,92,,0.07131869669,,,,,,471,-59.7,640,-7.56,,,,,0.0666,0.2944
+243,244.0,M49,2015-08-04,,Sagehorn,MS2 (near Well MS-2),Soil or rock,Drilled material,Saprolite,,,,,,0.96,96,,0.0748927966,,,,,,471,-61.7,640,-8.62,,,,,0.0697,0.2481
+274,275.0,CZO sagehorn 12/15/15 900,2015-12-15,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-40.8,640,-7.81,,,,,,
+275,276.0,CZO sagehorn 12/10/2015 10 am,2015-12-10,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-18.3,640,-4.53,,,,,,
+276,277.0,CZO sagehorn 12/13/15 1100,2015-12-13,11:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-54.4,640,-9.09,,,,,,
+277,278.0,CZO sagehorn 12/14/15 1000,2015-12-14,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-58.2,640,-9.97,,,,,,
+278,279.0,CZO sagehorn 12/12/15 900,2015-12-12,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-43.5,640,-8.51,,,,,,
+279,280.0,CZO sagehorn 12/23/15 1100,2015-12-23,11:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-41.8,640,-6.22,,,,,,
+280,281.0,CZO sagehorn 12/20/15 1400,2015-12-20,14:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-86.5,640,-13.26,,,,,,
+281,282.0,CZO sagehorn 12/18/15 900,2015-12-18,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-41.9,640,-7.58,,,,,,
+282,283.0,CZO sagehorn 12/11/15 1300,2015-12-11,13:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-41.5,640,-8.22,,,,,,
+283,284.0,CZO sagehorn 12/21/15 1200,2015-12-21,12:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,471,-55.8,640,-8.67,,,,,,
+284,285.0,SH MS-4 12/30/15,2015-12-30,,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,471,-44.1,640,-7.32,,,,,,
+285,286.0,SH 500 12/30/15,2015-12-30,,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,471,-41.9,640,-7.0,,,,,,
+287,288.0,SH MN-1 12/30/15,2015-12-30,,Sagehorn,MN1,Water,Well water,,,,,,,,,,,,,,,,471,-45.1,640,-7.53,,,,,,
+288,289.0,SH Dry Cr. 1-16-2016,2016-01-16,12:30,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,471,-48.2,640,-8.09,,,,,,
+290,291.0,SH Dry Cr. 1-17-2016,2016-01-17,12:00,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,471,-42.9,640,-7.38,,,,,,
+317,318.0,CZO sagehorn 12/24/15 1400,2015-12-24,14:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-35.7,639,-7.58,,,,,,
+318,319.0,CZO sagehorn 12/22/15 1100,2015-12-22,11:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-42.9,639,-5.95,,,,,,
+319,320.0,CZO sagehorn 2016 1/15 800,2016-01-15,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-49.0,639,-8.4,,,,,,
+320,321.0,CZO sagehorn 2016 1/6 1230,2016-01-06,12:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-46.4,639,-8.38,,,,,,
+321,322.0,CZO sagehorn 2016 1/14 800,2016-01-14,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-52.5,639,-8.75,,,,,,
+322,323.0,CZO sagehorn 2016 1/8 1000,2016-01-08,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-54.1,639,-9.7,,,,,,
+323,324.0,CZO sagehorn 2016 1/11 1400,2016-01-11,14:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-12.0,639,-3.91,,,,,,
+324,325.0,CZO sagehorn 2016 1/5 900,2016-01-05,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-66.1,639,-10.43,,,,,,
+325,326.0,CZO sagehorn 2016 1/10 1000,2016-01-10,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-33.5,639,-6.83,,,,,,
+326,327.0,CZO sagehorn 2016 1/9 1000,2016-01-09,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-57.2,639,-9.76,,,,,,
+327,328.0,CZO sagehorn 2016 1/16 700,2016-01-16,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-33.8,639,-6.53,,,,,,
+328,329.0,CZO sagehorn 2016 1/4 1300,2016-01-04,13:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,472,-49.2,639,-8.19,,,,,,
+349,350.0,,2016-01-25,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-33.3,642,-6.61,,,,,,
+350,351.0,,2016-01-16,15:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-53.9,642,-5.97,,,,,,
+351,352.0,,2016-01-17,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-25.0,642,-5.46,,,,,,
+352,353.0,,2016-01-30,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-44.3,642,-6.22,,,,,,
+353,354.0,,2016-01-18,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-58.4,642,-8.86,,,,,,
+354,355.0,,2016-01-24,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-39.2,642,-5.94,,,,,,
+355,356.0,,2016-01-27,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-36.9,642,-6.54,,,,,,
+356,357.0,,2016-01-20,13:50,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-68.2,642,-10.12,,,,,,
+357,358.0,,2016-01-26,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-27.3,642,-4.67,,,,,,
+358,359.0,,2016-01-29,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-21.1,642,-4.09,,,,,,
+359,360.0,,2016-02-04,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-37.6,642,-7.02,,,,,,
+360,361.0,,2016-02-02,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-30.1,642,-5.89,,,,,,
+361,362.0,,2016-01-23,10:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Water,,,,474,-49.4,642,-8.14,,,,,,
+394,395.0,W500,2016-02-06,,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,474,-45.9,642,-7.43,,,,,,
+395,396.0,W501,2016-02-06,,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,474,-45.4,642,-7.34,,,,,,
+396,397.0,W502,2016-02-06,,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,474,-44.8,642,-7.19,,,,,,
+398,399.0,W506,2016-02-06,,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,474,-35.4,642,-6.18,,,,,,
+399,400.0,W507,2016-02-06,,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,474,-35.7,642,-6.66,,,,,,
+400,401.0,MN1,2016-02-06,,Sagehorn,MN1,Water,Well water,,,,,,,,,,,,SHW,,,,474,-46.1,642,-7.46,,,,,,
+401,402.0,MS1,2016-02-06,,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,SHW,,,,474,-43.2,642,-7.12,,,,,,
+403,404.0,Dry Creek,2016-02-06,13:18,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,SH,,,,474,-43.4,642,-7.48,,,,,,
+453,454.0,W500,2016-03-06,,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,475,-38.3,643,-5.65,,,,,,
+454,455.0,W501,2016-03-06,,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,475,-35.9,643,-6.08,,,,,,
+455,456.0,W502,2016-03-06,,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,475,-42.0,643,-6.99,,,,,,
+457,458.0,W506,2016-03-06,12:00,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,475,-26.1,643,-4.6,,,,,,
+458,459.0,W507,2016-03-06,12:00,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,475,-32.1,643,-5.86,,,,,,
+459,460.0,W508,2016-03-06,12:00,Sagehorn,W508,Water,Well water,,,,,,,,,,,,,,,,475,-36.6,643,-6.25,,,,,,
+460,461.0,MN1,2016-03-06,,Sagehorn,MN1,Water,Well water,,,,,,,,,,,,,,,,475,-39.2,643,-6.28,,,,,,
+461,462.0,MS4,2016-03-06,,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,475,-36.2,643,-5.82,,,,,,
+463,464.0,Dry Creek,2016-03-06,15:33,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,475,-41.6,643,-7.0,,,,,,
+464,465.0,,2016-02-18,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-48.3,643,-8.07,,,,,,
+465,466.0,,2016-02-19,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-52.0,643,-8.8,,,,,,
+466,467.0,,2016-02-20,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-32.8,643,-7.22,,,,,,
+467,468.0,,2016-02-29,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-18.8,643,-3.73,,,,,,
+468,469.0,,2016-03-02,6:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-6.3,643,-2.22,,,,,,
+469,470.0,,2016-03-03,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-22.0,643,-4.87,,,,,,
+470,471.0,,2016-03-05,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-32.2,643,-6.16,,,,,,
+471,472.0,,2016-03-06,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-45.4,643,-7.67,,,,,,
+472,473.0,,2016-03-07,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-51.2,643,-8.83,,,,,,
+473,474.0,,2016-03-09,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-34.1,643,-5.98,,,,,,
+474,475.0,,2016-03-10,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-15.5,643,-4.28,,,,,,
+475,476.0,,2016-03-11,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-64.7,643,-9.49,,,,,,
+476,477.0,,2016-03-12,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-58.7,643,-9.8,,,,,,
+477,478.0,,2016-03-13,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-43.5,643,-7.78,,,,,,
+478,479.0,,2016-03-14,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,Rain,,,,475,-27.4,643,-5.27,,,,,,
+499,500.0,W500,2016-03-17,10:39,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,475,-41.2,643,-7.19,,,,,,
+500,501.0,W501,2016-03-17,11:05,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,475,-45.2,643,-7.7,,,,,,
+501,502.0,W501,2016-03-17,14:10,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,475,-45.9,643,-7.48,,,,,,
+502,503.0,W502,2016-03-17,9:53,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,475,-42.8,643,-7.16,,,,,,
+504,505.0,W506,2016-03-17,,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,475,-34.1,643,-5.92,,,,,,
+505,506.0,W507,2016-03-17,,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,475,-39.5,643,-6.65,,,,,,
+506,507.0,W508,2016-03-17,,Sagehorn,W508,Water,Well water,,,,,,,,,,,,,,,,475,-39.7,643,-6.62,,,,,,
+507,508.0,MN1,2016-03-17,,Sagehorn,MN1,Water,Well water,,,,,,,,,,,,,,,,475,-41.8,643,-7.24,,,,,,
+508,509.0,MS4,2016-03-17,,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,475,-41.8,643,-6.83,,,,,,
+510,511.0,Dry Creek,2016-03-17,16:30,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,475,-44.9,643,-7.29,,,,,,
+620,621.0,Rain,2016-03-20,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,476,-25.2,644,-4.73,,,,,,
+621,622.0,Rain,2016-03-21,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,476,-23.7,644,-4.83,,,,,,
+622,623.0,Rain,2016-03-22,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,476,-32.9,644,-6.21,,,,,,
+623,624.0,Rain,2016-03-23,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,476,-39.9,644,-6.45,,,,,,
+624,625.0,Rain,2016-04-14,17:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,476,-36.2,644,-6.19,,,,,,
+625,626.0,Rain,2016-04-22,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,476,-35.3,644,-5.77,,,,,,
+626,627.0,Rain,2016-04-27,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,476,-43.7,644,-6.59,,,,,,
+633,634.0,MS4,2016-05-02,,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,477,-41.8,645,-6.72,,,,,,
+634,635.0,MN1,2016-05-02,18:00,Sagehorn,MN1,Water,Well water,,,,,,,,,,,,,,,,477,-41.5,645,-6.73,,,,,,
+637,638.0,Dry Creek,2016-05-03,13:40,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,477,-41.4,645,-6.83,,,,,,
+638,639.0,W500,2016-05-02,,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,477,-41.9,645,-6.92,,,,,,
+639,640.0,W501,2016-05-02,,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,477,-49.8,645,-7.63,,,,,,
+640,641.0,W502,2016-05-02,,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,477,-39.4,645,-6.65,,,,,,
+642,643.0,W506,2016-05-02,,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,477,-40.9,645,-6.62,,,,,,
+643,644.0,W507,2016-05-02,,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,477,-44.7,645,-7.24,,,,,,
+644,645.0,W508,2016-05-02,,Sagehorn,W508,Water,Well water,,,,,,,,,,,,,,,,477,-41.8,645,-6.92,,,,,,
+822,823.0,500 May 19 2016 WJH 7:30,2016-05-19,7:30,Sagehorn,W500,Water,Well water,,,,,,,,,,,WJH,,,,,486,-42.6,661,-7.13,,,,,,
+823,824.0,501 May 19 2016 7:45 WJH,2016-05-19,7:45,Sagehorn,W501,Water,Well water,,,,,,,,,,,WJH,,,,,486,-50.2,661,-7.96,,,,,,
+826,827.0,506 10:20 May 19 2016 WJH,2016-05-19,10:20,Sagehorn,W506,Water,Well water,,,,,,,,,,,WJH,,,,,486,-38.9,661,-6.63,,,,,,
+827,828.0,508 May 19 2016 11:00 WJH,2016-05-19,11:00,Sagehorn,W508,Water,Well water,,,,,,,,,,,WJH,,,,,486,-39.9,661,-6.82,,,,,,
+828,829.0,507 May 19 2016 10:35 WJH,2016-05-19,10:35,Sagehorn,W507,Water,Well water,,,,,,,,,,,WJH,,,,,486,-43.1,661,-7.25,,,,,,
+829,830.0,502 May 19 2016 8:00 WJH,2016-05-19,8:00,Sagehorn,W502,Water,Well water,,,,,,,,,,,WJH,,,,,486,-2.5,661,8.93,,,,,,
+832,833.0,"Dry CK May 19, 2016 16:15 WJH",2016-05-19,16:15,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,WJH,,,,,486,-40.0,661,-6.5,,,,,,
+833,834.0,501 10 Jun 2016 15:15 WJH,2016-06-10,15:15,Sagehorn,W501,Water,Well water,,,,,,,,,,,WJH,,,,,486,-50.7,661,-8.07,,,,,,
+834,835.0,508 10 Jun 16 18:40 WJH,2016-06-10,18:40,Sagehorn,W502,Water,Well water,,,,,,,,,,,WJH,,,,,486,-38.8,661,-6.57,,,,,,
+835,836.0,507 10 Jun 16 18:30 WJH,2016-06-10,18:30,Sagehorn,W507,Water,Well water,,,,,,,,,,,WJH,,,,,486,-42.1,661,-7.1,,,,,,
+836,837.0,502 15:45 10 Jun 16 WJH,2016-06-10,15:45,Sagehorn,W502,Water,Well water,,,,,,,,,,,WJH,,,,,486,-41.7,661,-6.95,,,,,,
+837,838.0,MS-4 10 Jun 16 19:50 WJH,2016-06-10,19:50,Sagehorn,MS4,Water,Well water,,,,,,,,,,,WJH,,,,,486,-43.2,661,-7.17,,,,,,
+839,840.0,500 WJH 10 Jun 16 15:35,2016-06-10,15:35,Sagehorn,W500,Water,Well water,,,,,,,,,,,WJH,,,,,486,-44.2,661,-7.28,,,,,,
+841,842.0,506 10 Jun 16 18:20 WJH,2016-06-10,18:20,Sagehorn,W506,Water,Well water,,,,,,,,,,,WJH,,,,,486,-39.0,661,-6.71,,,,,,
+842,843.0,507 22 Jun 16 17:20 WJH,2016-06-22,17:20,Sagehorn,W507,Water,Well water,,,,,,,,,,,WJH,,,,,486,-42.3,661,-7.1,,,,,,
+844,845.0,502 22 Jun 16 16:45 WJH,2016-06-22,16:45,Sagehorn,W502,Water,Well water,,,,,,,,,,,WJH,,,,,486,-41.5,661,-7.02,,,,,,
+845,846.0,508 22 Jun 16 17:25 WJH,2016-06-22,17:25,Sagehorn,W508,Water,Well water,,,,,,,,,,,WJH,,,,,486,-39.7,661,-6.57,,,,,,
+846,847.0,501 22 Jun 16 16:40 WJH,2016-06-22,16:40,Sagehorn,W501,Water,Well water,,,,,,,,,,,WJH,,,,,486,-51.0,661,-8.01,,,,,,
+847,848.0,500 22 Jun 16 16:35 WJH,2016-06-22,16:35,Sagehorn,W500,Water,Well water,,,,,,,,,,,WJH,,,,,486,-44.4,661,-7.42,,,,,,
+848,849.0,506 22 Jun 16 17:15 WJH,2016-06-22,17:15,Sagehorn,W506,Water,Well water,,,,,,,,,,,WJH,,,,,486,-39.9,661,-6.7,,,,,,
+856,857.0,5/25/16 700,2016-05-25,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-59.4,661,-7.9,,,,,,
+857,858.0,5/22/16 1750,2016-05-22,17:50,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-50.7,661,-7.39,,,,,,
+858,859.0,5/21/16 630,2016-05-21,6:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-22.1,661,-3.74,,,,,,
+859,860.0,5/6/16 1030,2016-05-06,10:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-58.5,661,-7.48,,,,,,
+860,861.0,6/17/16/ 830,2016-06-17,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-45.3,661,-7.37,,,,,,
+861,862.0,5/8/16 830,2016-05-08,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-36.2,661,-5.21,,,,,,
+862,863.0,6/18/16 830,2016-06-18,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-42.8,661,-6.59,,,,,,
+863,864.0,5/24/16 730,2016-05-24,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,486,-50.3,661,-6.92,>2,,,,,
+864,865.0,SAGE 1 22JUN16 19:35,2016-06-22,19:35,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-56.1,658,-8.0,>2,,,,,
+865,866.0,SAGE 167 22JUN16 17:25,2016-06-22,17:25,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-56.2,658,-8.13,>2,,,,,
+866,867.0,SAGE 5 22JUN16 19:45,2016-06-22,19:45,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-56.6,658,-7.87,>2,,,,,
+867,868.0,SAGE 168 22JUN16 19:05,2016-06-22,19:05,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-56.8,658,-8.39,>2,,,,,
+868,869.0,SAGE 4 22JUN16 19:55,2016-06-22,19:55,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-57.1,658,-8.3,>2,,,,,
+869,870.0,SAGE 3 22JUN16 20:00,2016-06-22,20:00,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-57.6,658,-8.61,1.74,,,,,
+870,871.0,SAGE 1 11JUN16 8:06,2016-06-11,8:06,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,1.74,,,,,WJH,,,,,483,-56.5,658,-8.26,1.74,,,,,
+871,872.0,SAGE 3 11JUN16 8:25,2016-06-11,8:25,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,1.74,,,,,WJH,,,,,483,-55.4,658,-8.12,>2,,,,,
+872,873.0,SAGE 168 11JUN16 8:45,2016-06-11,8:45,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-54.1,658,-7.93,1.74,,,,,
+873,874.0,SAGE 5 11JUN16 8:15,2016-06-11,8:15,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,1.74,,,,,WJH,,,,,483,-56.9,658,-8.32,1.74,,,,,
+874,875.0,SAGE 4 11JUN16 8:20,2016-06-11,8:20,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,1.74,,,,,WJH,,,,,483,-55.9,658,-7.73,>2,,,,,
+875,876.0,SAGE 167 11JUN16 8:40,2016-06-11,8:40,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-56.3,658,-7.95,1.74,,,,,
+877,878.0,"1/207 MAY5,2016 STEM",2016-05-05,,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,0.75,,,,,WJH,,,,,483,-48.2,658,-6.88,1.25,,,,,
+878,879.0,"167/208 MAY5, 2016 STEM",2016-05-05,,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,1.25,,,,,WJH,,,,,483,-49.8,658,-6.97,0.75,,,,,
+879,880.0,"3/204 MAY5,2016 STEM",2016-05-05,,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,0.75,,,,,WJH,,,,,483,-50.6,658,-7.44,0.75,,,,,
+881,882.0,"4/205 MAY5,2016 STEM",2016-05-05,,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,0.75,,,,,WJH,,,,,483,-50.4,658,-7.14,0.75,,,,,
+882,883.0,"5/206 MAY5,2016 STEM",2016-05-05,,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,0.75,,,,,WJH,,,,,483,-47.8,658,-6.77,0.75,,,,,
+883,884.0,"167/208 MAY19,2016 STEM",2016-05-19,,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-53.8,658,-7.62,1.1,,,,,
+884,885.0,"3/204 MAY19,2016 14:10 STEM",2016-05-19,14:10,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-57.7,658,-8.55,1.1,,,,,
+886,887.0,"1/207 MAY19,2016 14:45 STEM",2016-05-19,14:45,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-54.9,658,-8.28,1.1,,,,,
+887,888.0,"4/205 MAY19,2016 14:20 STEM",2016-05-19,14:20,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-55.1,658,-8.02,1.1,,,,,
+888,889.0,"5/206 MAY19,2016 14:25 STEM",2016-05-19,14:25,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-51.3,658,-7.42,1.1,,,,,
+889,890.0,"4/205 MAY19,2016 14:20 CORE",2016-05-19,14:20,Sagehorn,T4/205,Tree,Tree core,,4.0,205.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-59.3,658,-7.68,1.1,,,,,
+891,892.0,"167/208 MAY19,2016 13:20 CORE",2016-05-19,13:20,Sagehorn,T167/208,Tree,Tree core,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,,,,,483,-57.7,658,-7.48,1.1,,,,,
+892,893.0,"1/207 MAY19,2016 14:45 CORE",2016-05-19,14:45,Sagehorn,T1/207,Tree,Tree core,,1.0,207.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-54.3,658,-7.31,1.1,,,,,
+893,894.0,"3/204 MAY19,2016 14:15 CORE",2016-05-19,14:15,Sagehorn,T3/204,Tree,Tree core,,3.0,204.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-57.7,658,-7.4,1.1,,,,,
+894,895.0,"5/206 MAY19,2016 14:20 CORE",2016-05-19,14:20,Sagehorn,T5/206,Tree,Tree core,,5.0,206.0,Oregon white (Garry) oak,QUGA,1.1,,,,,WJH,,,,,483,-55.7,658,-7.23,,,,,,
+895,896.0,MN-2 10CM 11JUN16,2016-06-11,,Sagehorn,MN-2 (near Well MN-1),Soil or rock,Drilled material,Soil,,,,,,0.1,10,,,WJH,,,,,483,-53.5,658,-6.67,,,,,,
+896,897.0,MN-2 20CM 11JUN16,2016-06-11,,Sagehorn,MN-2 (near Well MN-1),Soil or rock,Drilled material,Soil,,,,,,0.2,20,,,WJH,,,,,483,-58.0,658,-7.82,,,,,,
+897,898.0,MN-2 30CM 11JUN16,2016-06-11,,Sagehorn,MN-2 (near Well MN-1),Soil or rock,Drilled material,Soil,,,,,,0.3,30,,,WJH,,,,,483,-58.4,658,-8.21,,,,,,
+898,899.0,MN-2 40CM 11JUN16,2016-06-11,,Sagehorn,MN-2 (near Well MN-1),Soil or rock,Drilled material,Saprolite,,,,,,0.4,40,,,WJH,,,,,483,-57.1,658,-8.26,,,,,,
+899,900.0,MN-2 50CM 11JUN16,2016-06-11,,Sagehorn,MN-2 (near Well MN-1),Soil or rock,Drilled material,Saprolite,,,,,,0.5,50,,,WJH,,,,,483,-56.8,658,-8.42,,,,,,
+900,901.0,MN-2 60CM 11JUN16,2016-06-11,,Sagehorn,MN-2 (near Well MN-1),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.6,60,,,WJH,,,,,483,-62.7,658,-8.98,,,,,,
+901,902.0,MN-2 70CM 11JUN16,2016-06-11,,Sagehorn,MN-2 (near Well MN-1),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.7,70,,,WJH,,,,,483,-60.6,658,-9.14,,,,,,
+902,903.0,MS-5 10CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.1,10,,,WJH,,,,,483,-56.4,658,-7.13,,,,,,0.0782
+903,904.0,MS-5 20CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.2,20,,,WJH,,,,,483,-58.4,658,-8.41,,,,,,0.1094
+904,905.0,MS-5 30CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.3,30,,,WJH,,,,,483,-57.1,658,-8.7,,,,,,0.1011
+905,906.0,MS-5 40CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.4,40,,,WJH,,,,,483,-54.5,658,-8.28,,,,,,0.0913
+906,907.0,MS-5 50CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.5,50,,,WJH,,,,,483,-55.7,658,-8.23,,,,,,0.1074
+907,908.0,MS-5 60CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Soil,,,,,,0.6,60,,,WJH,,,,,483,-54.9,658,-8.35,,,,,,0.0904
+908,909.0,MS-5 70CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.7,70,,,WJH,,,,,483,-57.2,658,-8.38,,,,,,0.1174
+909,910.0,MS-5 80CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.8,80,,,WJH,,,,,483,-58.7,658,-8.7,,,,,,0.09502
+910,911.0,MS-5 90CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,0.9,90,,,WJH,,,,,483,-58.7,658,-8.85,,,,,,0.08634
+911,912.0,MS-5 100CM 11JUN16,2016-06-11,,Sagehorn,MS-5 (near Well MS-4),Soil or rock,Drilled material,Weathered bedrock,,,,,,1.0,100,,,WJH,,,,,483,-60.1,658,-8.62,>2,,,,,0.0795
+912,913.0,1 24JUL16 11:50,2016-07-24,11:50,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,"changed sample type from 'Core' to 'Tree' on June 29, 2019 - wjh",,,,483,-58.3,658,-8.59,>2,,,,,
+913,914.0,3 24JUL16 12:00,2016-07-24,12:00,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,"changed sample type from 'Core' to 'Tree' on June 29, 2019 - wjh",,,,483,-59.5,658,-8.79,>2,,,,,
+914,915.0,5 24JUL16 12:10,2016-07-24,12:10,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,"changed sample type from 'Core' to 'Tree' on June 29, 2019 - wjh",,,,483,-62.0,658,-8.89,>2,,,,,
+915,916.0,166 24JUL16 13:06,2016-07-24,13:06,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,"changed sample type from 'Core' to 'Tree' on June 29, 2019 - wjh",,,,483,-57.5,658,-8.08,>2,,,,,
+916,917.0,167 24JUL16 13:00,2016-07-24,13:00,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,"changed sample type from 'Core' to 'Tree' on June 29, 2019 - wjh",,,,483,-60.8,658,-8.86,>2,,,,,
+917,918.0,168 24JUL16 12:49,2016-07-24,12:49,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,>2,,,,,WJH,"changed sample type from 'Core' to 'Tree' on June 29, 2019 - wjh",,,,483,-60.8,658,-8.8,>2,,,,,
+918,919.0,M82,2016-07-24,13:15,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.08925687777,WJH,,,,,483,-53.6,658,-5.38,,,,,0.0819,0.063
+919,920.0,M149,2016-05-19,15:00,Sagehorn,1 m W of 1/207,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.1494683114,WJH,,,,,483,-48.4,658,-5.93,,,,,0.13,0.0634
+920,921.0,M107,2016-05-19,13:45,Sagehorn,1 m S of tree 167/208,Soil or rock,Drilled material,Soil,,,,,,0.05,5,,0.1846086472,WJH,,,,,483,-41.9,658,-5.11,,,,,0.1558,0.0601
+921,922.0,M138,2016-05-19,14:55,Sagehorn,1 m N of 4/205,Soil or rock,Drilled material,Soil,,,,,,0.05,5,,,WJH,,,,,483,-35.3,658,-3.9,,,,,,0.0824
+922,923.0,M134,2016-05-19,13:50,Sagehorn,1 m S of tree 167/208,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.2300282499,WJH,,,,,483,-40.3,658,-4.4,,,,,0.187,0.0747
+923,924.0,M133,2016-05-19,13:50,Sagehorn,1 m N of 166,Soil or rock,Drilled material,Soil,,,,,,0.05,5,,0.2268455973,WJH,,,,,483,-36.0,658,-4.62,,,,,0.1849,0.0904
+924,925.0,M148,2016-07-24,12:44,Sagehorn,1 m SW of MS-4,Soil or rock,Drilled material,Saprolite,,,,,,0.75,75,,0.1238823501,WJH,,,,,483,-60.5,658,-9.01,,,,,0.1102,0.0826
+925,926.0,M127,2016-07-24,13:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.5,50,,0.1741028931,WJH,,,,,483,-61.3,658,-9.4,,,,,0.1483,0.0797
+926,927.0,M126,2016-05-19,14:55,Sagehorn,1 m N of 4/205,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.18775929510000006,WJH,,,,,483,-43.6,658,-5.3,,,,,0.1581,0.0802
+927,928.0,M131,2016-07-24,12:36,Sagehorn,1 m SW of MS-4,Soil or rock,Drilled material,Soil,,,,,,0.5,50,,0.06300723034,WJH,,,,,483,-57.6,658,-9.08,,,,,0.0593,0.0938
+928,929.0,M122,2016-07-24,13:25,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.3,30,,0.0858149148,WJH,,,,,483,-58.5,658,-8.35,,,,,0.079,0.0764
+929,930.0,M180,2016-07-24,13:35,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.65,65,,0.13874339230000002,WJH,,,,,483,-63.8,658,-9.22,,,,,0.1218,0.1036
+930,931.0,M115,2016-07-24,12:32,Sagehorn,1 m SW of MS-4,Soil or rock,Drilled material,Soil,,,,,,0.3,30,,0.07509678438999999,WJH,,,,,483,-59.2,658,-8.65,,,,,0.0699,0.0896
+931,932.0,M144,2016-05-19,15:00,Sagehorn,1 m W of 1/207,Soil or rock,Drilled material,Soil,,,,,,0.05,5,,0.1772458311,WJH,,,,,483,-47.0,658,-4.88,,,,,0.1506,0.0689
+932,933.0,M113,2016-07-24,13:20,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.07934134933999999,WJH,,,,,483,-54.7,658,-8.05,,,,,0.0735,0.0604
+933,934.0,M108,2016-05-19,12:24,Sagehorn,1 m SW of MS-4,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.08452607654,WJH,,,,,483,-49.0,658,-2.97,,,,,0.0779,0.0801
+934,935.0,M143,2016-05-19,13:50,Sagehorn,1 m N of 166,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.2062455779,WJH,,,,,483,-39.6,658,-5.59,,,,,0.171,0.0888
+935,936.0,M109,2016-07-24,12:28,Sagehorn,1 m SW of MS-4,Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.07654848001,WJH,,,,,483,-60.4,658,-8.62,,,,,0.0711,0.0963
+936,937.0,SAGE 500 25 Jul 16 14:35 WJH,2016-07-25,14:35,Sagehorn,W500,Water,Well water,,,,,,,,,,,WJH,,,,,487,-45.2,662,-7.43,,,,,,
+937,938.0,SAGE 501 25 Jul 16 14:45 WJH,2016-07-25,14:45,Sagehorn,W501,Water,Well water,,,,,,,,,,,WJH,,,,,487,-51.4,662,-8.08,,,,,,
+938,939.0,SAGE 502 25 Jul 16 14:55 WJH,2016-07-25,14:55,Sagehorn,W502,Water,Well water,,,,,,,,,,,WJH,,,,,487,-43.1,662,-7.07,,,,,,
+940,941.0,SAGE 506 25 Jul 16 7:25,2016-07-25,7:25,Sagehorn,W506,Water,Well water,,,,,,,,,,,WJH,,,,,487,-40.2,662,-6.81,,,,,,
+941,942.0,SAGE 507 25 Jul 16 7:40 WJH,2016-07-25,7:40,Sagehorn,W507,Water,Well water,,,,,,,,,,,WJH,,,,,487,-42.4,662,-6.99,,,,,,
+942,943.0,SAGE 508 25 Jul 16 7:50 WJH,2016-07-25,7:50,Sagehorn,W508,Water,Well water,,,,,,,,,,,WJH,very dirty,,,,487,-41.6,662,-6.62,,,,,,
+989,990.0,Sagehorn Well 500 S1 8/26/16 6:31,2016-08-26,6:31,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,487,-46.3,662,-7.52,,,,,,
+990,991.0,Sagehorn Well 501 S1 8/26/16 6:52,2016-08-26,6:52,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,487,-51.5,662,-8.11,,,,,,
+991,992.0,Sagehorn Well 502 S1 8/26/16 7:05,2016-08-26,7:05,Sagehorn,W502,Water,Well water,,,,,,,,,,,,dirty,,,,487,-43.2,662,-7.12,,,,,,
+993,994.0,Sagehorn Well 506 S1 8/26/16 8:15,2016-08-26,8:15,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,487,-41.8,662,-6.96,,,,,,
+994,995.0,Sagehorn Well 507 S1 8/26/16 8:32,2016-08-26,8:32,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,487,-43.1,662,-7.08,,,,,,
+1036,1037.0,M81,2016-09-17,9:30,Sagehorn,"3 m NE of tree 4, transition slope to colluvial gully fill",Soil or rock,Drilled material,Soil,,,,,,0.05,5,,0.07028631835,HAHM,,,,,HD488,-58.5,GB663,-6.81,,,,,0.0657,0.0478
+1037,1038.0,M83,2016-09-17,9:30,Sagehorn,"3 m NE of tree 4, transition slope to colluvial gully fill",Soil or rock,Drilled material,Soil,,,,,,0.15,15,,0.09534663924,HAHM,,,,,HD488,-42.5,GB663,0.44,,,,,0.0871,0.1215
+1038,1039.0,M84,2016-09-17,9:30,Sagehorn,"3 m NE of tree 4, transition slope to colluvial gully fill",Soil or rock,Drilled material,Soil,,,,,,0.35,35,,0.07201712964,HAHM,,,,,HD488,-57.9,GB663,-7.93,,,,,0.0672,0.103
+1039,1040.0,M85,2016-09-17,9:30,Sagehorn,"3 m NE of tree 4, transition slope to colluvial gully fill",Soil or rock,Drilled material,Saprolite,,,,,,0.45,45,,0.09983107756,HAHM,"becomes very rock, soil/sap boundary between between 45/55",,,,HD488,-61.1,GB663,-8.03,,,,,0.0908,0.0394
+1040,1041.0,M86,2016-09-17,9:30,Sagehorn,"3 m NE of tree 4, transition slope to colluvial gully fill",Soil or rock,Drilled material,Saprolite,,,,,,0.55,55,,0.07477339966,HAHM,,,,,HD488,-57.7,GB663,-7.69,,,,,0.0696,0.0318
+1041,1042.0,M87,2016-09-17,9:30,Sagehorn,"3 m NE of tree 4, transition slope to colluvial gully fill",Soil or rock,Drilled material,Weathered bedrock,,,,,,0.65,65,,0.07604854014,HAHM,Refusal on rock,,,,HD488,-57.7,GB663,-8.21,,,,,0.0707,0.0316
+1042,1043.0,M88,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.06897749977999999,HAHM,,,,,HD488,-46.9,GB663,0.02,,,,,0.0645,0.0291
+1043,1044.0,M89,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.25,25,,0.08485283561000001,HAHM,,,,,HD488,-61.0,GB663,-7.11,,,,,0.0782,0.0294
+1044,1045.0,M90,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.35,35,,0.1228168546,HAHM,"black goo chips, soil/sap boundary between 35 and 55",,,,HD488,-60.2,GB663,-8.33,,,,,0.1094,0.0258
+1045,1046.0,M91,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.55,55,,0.1124088637,HAHM,,,,,HD488,-63.1,GB663,-9.16,,,,,0.1011,0.0244
+1046,1047.0,M92,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.65,65,,0.1004767602,HAHM,clay rich rocky chips,,,,HD488,-62.4,GB663,-9.13,,,,,0.0913,0.0881
+1047,1048.0,M94,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.85,85,,0.1203556548,HAHM,clay rich rocky chips,,,,HD488,-65.0,GB663,-9.04,,,,,0.1074,0.0983
+1048,1049.0,M95,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.1,110,,0.09934771701,HAHM,"black blue interior, smeared grey sides",,,,HD488,-65.0,GB663,-9.1,,,,,0.0904,0.0476
+1049,1050.0,M96,2016-09-17,9:30,Sagehorn,2 m NNW of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.25,125,,0.1330120056,HAHM,"fine roots in black chips, 'refusal' of auger",,,,HD488,-62.0,GB663,-9.35,,,,,0.1174,0.0738
+1050,1051.0,M151,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.05,5,,0.1049993813,HAHM,,,,,HD488,-38.2,GB663,3.51,,,,,0.09502,0.0875
+1051,1052.0,M152,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.09449915448,HAHM,,,,,HD488,-51.9,GB663,-1.9,,,,,0.08634,0.0834
+1052,1053.0,M153,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.08630591092,HAHM,,,,,HD488,-59.0,GB663,-6.54,,,,,0.0795,0.0796
+1053,1054.0,M154,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.3,30,,0.1026195447,HAHM,soil/sap boundary b.t. 30 and 50 cm,,,,HD488,-62.6,GB663,-8.07,,,,,0.0931,0.0868
+1054,1055.0,M155,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.5,50,,0.09013758983,HAHM,,,,,HD488,-56.9,GB663,-10.51,,,,,0.0827,0.0615
+1055,1056.0,M156,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.65,65,,0.1313241346,HAHM,,,,,HD488,-63.7,GB663,-9.67,,,,,0.1161,0.0663
+1056,1057.0,M157,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.85,85,,0.1050341331,HAHM,,,,,HD488,-60.5,GB663,-9.98,,,,,0.0951,0.0937
+1057,1058.0,M158,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.05,105,,0.1338610337,HAHM,,,,,HD488,-63.5,GB663,-9.31,,,,,0.1181,0.0731
+1058,1059.0,M159,2016-08-26,9:30,Sagehorn,1 m N of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.25,125,,0.11672561,HAHM,"black chips, yellow coating, rock impedes progress",,,,HD488,-61.3,GB663,-9.55,,,,,0.1045,0.0858
+1059,1060.0,M160,2016-08-26,10:30,Sagehorn,3.5 m NE of T4/205,Soil or rock,Drilled material,Soil,,,,,,0.05,5,,0.1134444945,HAHM,,,,,HD488,-40.4,GB663,0.71,,,,,0.1019,0.0826
+1060,1061.0,M161,2016-08-26,10:30,Sagehorn,3.5 m NE of T4/205,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.07982142440000001,HAHM,,,,,HD488,-54.2,GB663,-5.4,,,,,0.0739,0.0935
+1061,1062.0,M162,2016-08-26,10:30,Sagehorn,3.5 m NE of T4/205,Soil or rock,Drilled material,Soil,,,,,,0.25,25,,0.07756115154,HAHM,,,,,HD488,-60.1,GB663,-8.47,,,,,0.07200000000000001,0.0664
+1062,1063.0,M163,2016-08-26,10:30,Sagehorn,3.5 m NE of T4/205,Soil or rock,Drilled material,Soil,,,,,,0.35,35,,0.07596720947,HAHM,,,,,HD488,-59.5,GB663,-8.78,,,,,0.0706,0.0775
+1063,1064.0,M164,2016-08-26,10:30,Sagehorn,3.5 m NE of T4/205,Soil or rock,Drilled material,Soil,,,,,,0.5,50,,0.07125635746,HAHM,soil/sap boundary between 50 and 60 cm,,,,HD488,-59.8,GB663,-9.16,,,,,0.0665,0.0766
+1064,1065.0,M165,2016-08-26,10:30,Sagehorn,3.5 m NE of T4/205,Soil or rock,Drilled material,Saprolite,,,,,,0.65,65,,0.0923859534,HAHM,rock impedes progress,,,,HD488,-58.6,GB663,-8.31,>2,,,,0.0846,0.0887
+1065,1066.0,166 22JUN16 19:15 STEM,2016-06-22,19:15,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-52.0,GB663,-7.93,>2,,,,,
+1066,1067.0,"SAGE 168 MAY 5, 2016 STEM",2016-05-05,,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,1.25,,,,,HAHM,,,,,HD488,-47.9,GB663,-7.06,1.25,,,,,
+1067,1068.0,"SAGE 166 MAY 5, 2016 STEM",2016-05-05,,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,1.25,,,,,HAHM,,,,,HD488,-44.5,GB663,-6.66,1.25,,,,,
+1068,1069.0,SAGE 166 11JUN16 08:33 STEM,2016-06-11,8:33,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-52.2,GB663,-7.85,>2,,,,,
+1069,1070.0,SAGE 4 24JUL16 12:05,2016-07-24,12:05,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-60.9,GB663,-8.66,>2,,,,,
+1070,1071.0,1 SAGE 26AUG16 12:00 STEM,2016-08-26,12:00,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-61.2,GB663,-8.88,>2,,,,,
+1071,1072.0,4 SAGE 26AUG16 12:05 STEM,2016-08-26,12:05,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-64.4,GB663,-9.36,>2,,,,,
+1072,1073.0,5 SAGE 26AUG16 12:10 STEM,2016-08-26,12:10,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-61.6,GB663,-8.79,>2,,,,,
+1073,1074.0,166 SAGE 26AUG16 12:10 STEM,2016-08-26,12:10,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-59.2,GB663,-8.17,>2,,,,,
+1074,1075.0,167 SAGE 26AUG16 11:35 STEM,2016-08-26,11:35,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-61.7,GB663,-8.37,>2,,,,,
+1075,1076.0,168 SAGE 26AUG16 11:40 STEM,2016-08-26,11:40,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-62.7,GB663,-9.02,>2,,,,,
+1076,1077.0,SAGE 1 0740 17SEP16 STEM,2016-09-17,7:40,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-60.3,GB663,-8.51,>2,,,,,
+1077,1078.0,SAGE 3 0747 17SEP16 STEM,2016-09-17,7:47,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-62.6,GB663,-8.78,>2,,,,,
+1078,1079.0,SAGE 4 0744 17SEP16 STEM,2016-09-17,7:44,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-60.6,GB663,-8.34,>2,,,,,
+1079,1080.0,SAGE 5 0749 17SEP16 STEM,2016-09-17,7:49,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-61.2,GB663,-9.42,>2,,,,,
+1081,1082.0,SAGE166 0756 17SEP16,2016-09-17,7:56,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-56.3,GB663,-7.6,>2,,,,,
+1082,1083.0,SAGE167 0800 17SEP16 STEM,2016-09-17,8:00,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-62.3,GB663,-8.92,>2,,,,,
+1083,1084.0,SAGE 168 0803 17SEP16 STEM,2016-09-17,8:03,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,>2,,,,,HAHM,,,,,HD488,-62.6,GB663,-9.03,>2,,,,,
+1088,1089.0,Sagehorn Well 500 SI 9/17/16 7:22,2016-09-17,7:22,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,HD491,-45.5,GB666,-7.31,,,,,,
+1089,1090.0,Sagehorn Well 501 SI 9/17/16 7:41,2016-09-17,7:41,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,HD491,-51.5,GB666,-7.89,,,,,,
+1090,1091.0,Sagehorn Well 502 SI 9/17/16 7:51,2016-09-17,7:51,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,HD491,-43.7,GB666,-7.03,,,,,,
+1092,1093.0,Sagehorn Well 506 SI 9/17/16 8:34,2016-09-17,8:34,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,HD491,-42.2,GB666,-6.81,,,,,,
+1093,1094.0,Sagehorn Well 507 SI 9/17/16 8:50,2016-09-17,8:50,Sagehorn,W507,Water,Well water,,,,,,,,,,,,,,,,HD491,-44.1,GB666,-7.14,,,,,,
+1130,1131.0,Dry SI 10/20/16 18:56,2016-10-20,18:56,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,HD491,-32.3,GB666,-5.5,,,,,,
+1131,1132.0,Well 500 SI 10/31/16 14:55 SC,2016-10-31,14:55,Sagehorn,W500,Water,Well water,,,,,,,,,,,SC,,,,,HD491,-34.9,GB666,-5.8,,,,,,
+1132,1133.0,Well 501 SI 10/31/16 14:26 SC,2016-10-31,14:26,Sagehorn,W501,Water,Well water,,,,,,,,,,,SC,,,,,HD491,-46.2,GB666,-7.56,,,,,,
+1133,1134.0,Well 502 SI 10/31/16 15:26 SC,2016-10-31,15:26,Sagehorn,W502,Water,Well water,,,,,,,,,,,SC,,,,,HD491,-37.8,GB666,-6.34,,,,,,
+1135,1136.0,Well 506 SI 10/31/16 16:34 SC,2016-10-31,16:34,Sagehorn,W506,Water,Well water,,,,,,,,,,,SC,,,,,HD491,-34.7,GB666,-6.05,,,,,,
+1136,1137.0,Well 507 SI 10/31/16 17:05 SC,2016-10-31,17:05,Sagehorn,W507,Water,Well water,,,,,,,,,,,SC,,,,,HD491,-43.0,GB666,-7.22,,,,,,
+1137,1138.0,M181,2016-11-01,9:30,Sagehorn,"2 m W of MS-4. completely saturated, standing but not flowing water on surface",Soil or rock,Drilled material,Soil,,,,,,0.07,7,,0.3745068367,HAHM,,,,,HD491,-42.2,GB666,-6.43,,saturated,,,0.2725,0.0469
+1138,1139.0,M182,2016-11-01,9:30,Sagehorn,"2 m W of MS-4. completely saturated, standing but not flowing water on surface",Soil or rock,Drilled material,Soil,,,,,,0.18,18,,0.3100685737,HAHM,,,,,HD491,-44.1,GB666,-6.87,,saturated,,,0.2367,0.0542
+1139,1140.0,M183,2016-11-01,9:30,Sagehorn,"2 m W of MS-4. completely saturated, standing but not flowing water on surface",Soil or rock,Drilled material,Soil,,,,,,0.27,27,,0.23836379,HAHM,,,,,HD491,-43.6,GB666,-6.63,,saturated,,,0.1925,0.0563
+1140,1141.0,M184,2016-11-01,9:30,Sagehorn,"2 m W of MS-4. completely saturated, standing but not flowing water on surface",Soil or rock,Drilled material,Soil,,,,,,0.4,40,,0.2154837843,HAHM,,,,,HD491,-45.8,GB666,-7.4,,saturated,,,0.1773,0.0397
+1141,1142.0,M185,2016-11-01,9:30,Sagehorn,"2 m W of MS-4. completely saturated, standing but not flowing water on surface",Soil or rock,Drilled material,Saprolite,,,,,,0.61,61,,0.2044839234,HAHM,,,,,HD491,-37.5,GB666,-5.67,,saturated,,,0.1698,0.1325
+1142,1143.0,M187,2016-11-01,9:30,Sagehorn,"2 m W of MS-4. completely saturated, standing but not flowing water on surface",Soil or rock,Drilled material,Saprolite,,,,,,0.87,87,,0.1783888595,HAHM,,,,,HD491,-50.3,GB666,-7.74,,saturated,,,0.1514,0.0801
+1143,1144.0,M188,2016-11-01,10:25,Sagehorn,"1 m E of MN-1. squishy ground,",Soil or rock,Drilled material,Soil,,,,,,0.08,8,,0.4172332166,HAHM,,,,,HD491,-50.2,GB666,-8.75,,saturated,,,0.2944,0.0681
+1144,1145.0,M189,2016-11-01,10:25,Sagehorn,"1 m E of MN-1. squishy ground,",Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.3299534067,HAHM,,,,,HD491,-45.5,GB666,-7.07,,saturated,,,0.2481,0.0721
+1147,1148.0,M194,2016-11-01,10:25,Sagehorn,"1 m E of MN-1. squishy ground,",Soil or rock,Drilled material,Saprolite,,,,,,0.43,43,,0.2931363956,HAHM,,,,,HD491,-42.6,GB666,-6.55,,saturated,,,0.2267,0.0792
+1149,1150.0,SAGE 1 01NOV16 12:12,2016-11-01,12:12,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,0.03,,,,,HAHM,,,,,HD491,-49.2,GB666,-7.07,0.03,,,,,
+1150,1151.0,SAGE 4 01NOV16 12:16,2016-11-01,12:16,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,0.03,,,,,HAHM,,,,,HD491,-46.7,GB666,-6.73,0.03,,,,,
+1151,1152.0,SAGE 5 01NOV16 12:20,2016-11-01,12:20,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,0.03,,,,,HAHM,,,,,HD491,-47.6,GB666,-6.71,0.12,,,,,
+1152,1153.0,SAGE 166 01NOV16 11:52,2016-11-01,11:52,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,0.12,,,,,HAHM,,,,,HD491,-48.1,GB666,-7.01,0.12,,,,,
+1153,1154.0,SAGE 167 01NOV16 11:55,2016-11-01,11:55,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,0.12,,,,,HAHM,,,,,HD491,-47.1,GB666,-7.11,0.12,,,,,
+1154,1155.0,SAGE 168 01NOV16 11:58,2016-11-01,11:58,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,0.12,,,,,HAHM,,,,,HD491,-49.6,GB666,-7.79,0.12,,,,,
+1155,1156.0,Well 508 SI 10/31/16 16:52,2016-10-31,16:52,Sagehorn,W508,Water,Well water,,,,,,,,,,,,,,,,HD493,-39.3,GB668,-6.59,,,,,,
+1156,1157.0,Dry SI 10/31/16 18:20 0.57m,2016-10-31,18:20,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.57,57,,,,,,,,HD493,-38.5,GB668,-6.38,,,,,,
+1158,1159.0,Dry 31 Oct 2016 12:35 0.55m,2016-10-31,12:35,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.55,55,,,,,,,,HD493,-37.9,GB668,-6.46,,,,,,
+1160,1161.0,"Well MS-4 11/1/16 09:59 SC, JH",2016-11-01,9:59,Sagehorn,MS4,Water,Well water,,,,,,,,,,,"SC, WJH",,,,,HD493,-35.7,GB668,-6.04,,,,,,
+1163,1164.0,Well MS-4 SI 10/31/16 17:40 SC,2016-10-31,17:40,Sagehorn,MS4,Water,Well water,,,,,,,,,,,SC,,,,,HD493,-34.5,GB668,-5.71,,,,,,
+1164,1165.0,Well MN-1 10/31/16 17:58 SC,2016-10-31,17:58,Sagehorn,MN1,Water,Well water,,,,,,,,,,,SC,,,,,HD493,-35.0,GB668,-5.88,,,,,,
+1165,1166.0,Well MN-1 11/1/16 11:38 SC,2016-11-01,11:38,Sagehorn,MN1,Water,Well water,,,,,,,,,,,SC,,,,,HD493,-35.5,GB668,-6.04,,,,,,
+1166,1167.0,Dry SI 11/1/16 13:04 0.57m,2016-11-01,13:04,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.57,57,,,,,,,,HD493,-38.2,GB668,-5.56,,,,,,
+1167,1168.0,Dry SI 11/1/16 08:16 0.61m,2016-11-01,8:16,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.61,61,,,,,,,,HD493,-39.0,GB668,-6.66,,,,,,
+1194,1195.0,"MN-1 SI 11/18/16 14:00 ON, BP, KR",2016-11-18,14:00,Sagehorn,MN1,Water,Well water,,,,,,,,,,,"ON, BP, KR",,,,,HD493,-34.8,GB668,-6.02,,,,,,
+1195,1196.0,"MS4 SI 11/18/16 13:39 ON, BP, KR",2016-11-18,13:39,Sagehorn,MS4,Water,Well water,,,,,,,,,,,"ON, BP, KR",,,,,HD493,-32.7,GB668,-5.57,,,,,,
+1196,1197.0,"Well 502 SI 18 Nov 2016 11:42 BP, ON, KR, SC",2016-11-18,11:42,Sagehorn,W502,Water,Well water,,,,,,,,,,,"ON, BP, KR",,,,,HD493,-39.8,GB668,-6.8,,,,,,
+1198,1199.0,"Well 500 SI 11/18/16 10:58 SC, BP, KR, ON",2016-11-18,10:58,Sagehorn,W500,Water,Well water,,,,,,,,,,,"SC, BP, KR, ON",,,,,HD493,-36.3,GB668,-6.12,,,,,,
+1199,1200.0,"507 SI 11/18/16 13:14 ON, BP, KR",2016-11-18,13:14,Sagehorn,W507,Water,Well water,,,,,,,,,,,"ON, BP, KR",,,,,HD493,-27.6,GB668,-5.07,,,,,,
+1200,1201.0,"Well 501 SI 11/18/16 11:13 SC, BP, KR, ON",2016-11-18,11:13,Sagehorn,W501,Water,Well water,,,,,,,,,,,"SC, BP, KR, ON",,,,,HD493,-48.4,GB668,-7.73,,,,,,
+1201,1202.0,"Well 508 SI 18 Nov 2016 12:55 BP, KR, ON",2016-11-18,12:55,Sagehorn,W508,Water,Well water,,,,,,,,,,,"BP, KR, ON",,,,,HD493,-27.5,GB668,-5.08,,,,,,
+1202,1203.0,"Well 506 SI 18 Nov 2016 17:40 BP, KR, ON",2016-11-18,12:40,Sagehorn,W506,Water,Well water,,,,,,,,,,,"BP, KR, ON",,,,,HD493,-27.5,GB668,-5.11,,,,,,
+1204,1205.0,Dry 18 Nov 2016 09:30 0.39 m,2016-11-18,9:30,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.39,39,,,"SC, ON, BP",,,,,HD493,-35.9,GB668,-6.24,,,,,,
+1205,1206.0,"Dry SI 11/18/16 14:42 SC, ON, BD",2016-11-18,14:42,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,HD493,-36.0,GB668,-6.33,,,,,,
+1215,1216.0,11/28/16 730,2016-11-28,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD493,-65.1,GB668,-9.96,,,,,,
+1216,1217.0,11/23/16 730,2016-11-23,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD493,-44.8,GB668,-8.2,,,,,,
+1217,1218.0,11/26/16 600,2016-11-26,6:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD493,-54.0,GB668,-9.75,,,,,,
+1218,1219.0,11/25/16 730,2016-11-25,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD493,-27.3,GB668,-6.37,,,,,,
+1219,1220.0,11/27/16 730,2016-11-27,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD493,-88.8,GB668,-13.45,,,,,,
+1220,1221.0,11/19/16 800,2016-11-19,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD493,-18.0,GB668,-3.82,,,,,,
+1221,1222.0,11/20/16 800,2016-11-20,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD493,-26.0,GB668,-5.53,,,,,,
+1253,1254.0,Dry 10 Dec 16 12:40 0.79m,2016-12-10,12:40,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,79,,,,,,,,HD494,-54.7,GB669,-8.38,,,,,,
+1255,1256.0,"Well 508 SI 12/19/16 12:46 ON, BP",2016-12-19,12:46,Sagehorn,W508,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-44.3,GB669,-7.08,,,,,,
+1256,1257.0,"MN-1 SI 12/19/16 13:28 ON, BP",2016-12-19,13:28,Sagehorn,MN1,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-46.9,GB669,-7.71,,,,,,
+1258,1259.0,"Well 502 SI 12/19/16 11:04 ON, BP",2016-12-19,11:04,Sagehorn,W502,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-50.9,GB669,-8.16,,,,,,
+1260,1261.0,"Well 501 SI 12/19/16 11:24 ON, BP",2016-12-19,11:24,Sagehorn,W501,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-50.3,GB669,-8.01,,,,,,
+1261,1262.0,"Dry Creek Stable Isotope 12/19/16 14:26 CM, ON, KR, BP, 40.3",2016-12-19,14:26,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,40.3,,,"CM, ON, KR, BP",,,,,HD494,-46.3,GB669,-7.55,,,,,,
+1262,1263.0,"Well 507 SI 12/19/16 12:30 ON, BP",2016-12-19,12:30,Sagehorn,W507,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-49.3,GB669,-7.78,,,,,,
+1263,1264.0,"Well 506 SI 12/19/16 12:14 ON, BP",2016-12-19,12:14,Sagehorn,W506,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-43.4,GB669,-7.01,,,,,,
+1264,1265.0,"Well 500 SI 12/19/16 10:47 ON, BP",2016-12-19,10:47,Sagehorn,W500,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-49.3,GB669,-7.96,,,,,,
+1265,1266.0,"MS-4 SI 12/19/16 13:07 ON, BP",2016-12-19,13:07,Sagehorn,MS4,Water,Well water,,,,,,,,,,,"ON, BP",,,,,HD494,-49.7,GB669,-7.83,,,,,,
+1277,1278.0,MS-4 SI 1 10:20 7 Jan 17,2017-01-07,10:20,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,HD494,-52.4,GB669,-8.26,,,,,,
+1278,1279.0,MS4 SI 2 12:24 7 Jan 17,2017-01-07,12:24,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,HD494,-54.9,GB669,-8.44,,,,,,
+1279,1280.0,MS4 SI 3 13:16 7 Jan 17,2017-01-07,13:16,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,HD494,-52.8,GB669,-8.44,,,,,,
+1280,1281.0,MS4 SI 4 14:00 7 Jan 17,2017-01-07,14:00,Sagehorn,MS4,Water,Well water,,,,,,,,,,,,,,,,HD494,-55.0,GB669,-8.54,,,,,,
+1287,1288.0,"Sagehorn Well MN1 Stable Isotope 07 Jan 17 12:47 CM, JW",2017-01-07,12:47,Sagehorn,MN1,Water,Well water,,,,,,,,,,,"CM, JW",,,,,HD494,-65.3,GB669,-9.62,,,,,,
+1288,1289.0,"Sagehorn Well 500 Stable Isotope 07 Jan 17 13:20 CM, JW",2017-01-07,13:20,Sagehorn,W500,Water,Well water,,,,,,,,,,,"CM, JW",,,,,HD494,-61.6,GB669,-9.53,,,,,,
+1289,1290.0,"Sagehorn Well 501 Stable Isotope 07 Jan 17 13:47 CM, JW",2017-01-07,13:47,Sagehorn,W501,Water,Well water,,,,,,,,,,,"CM, JW",,,,,HD494,-76.9,GB669,-11.27,,,,,,
+1290,1291.0,"Sagehorn Well 506 Stable Isotope 07 Jan 17 11:27 CM, JW",2017-01-07,11:27,Sagehorn,W506,Water,Well water,,,,,,,,,,,"CM, JW",,,,,HD494,-50.7,GB669,-8.03,,,,,,
+1291,1292.0,"Sagehorn Well 508 Stable Isotope 07 Jan 17 11:39 CM, JW",2017-01-07,11:39,Sagehorn,W508,Water,Well water,,,,,,,,,,,"CM, JW",,,,,HD494,-51.7,GB669,-8.07,,,,,,
+1293,1294.0,"Sagehorn Well 507 Stable Isotope 07 Jan 17 11:49 CM, JW",2017-01-07,11:49,Sagehorn,W507,Water,Well water,,,,,,,,,,,"CM, JW",,,,,HD494,-66.3,GB669,-9.77,,,,,,
+1294,1295.0,"Sagehorn Well 502 Stable Isotope 07 Jan 17 13:35 CM, JW",2017-01-07,13:35,Sagehorn,W502,Water,Well water,,,,,,,,,,,"CM, JW",,,,,HD494,-59.5,GB669,-9.87,,,,,,
+1295,1296.0,"Sagehorn Well MS4 Stable Isotope 07 Jan 17 13:02 CM, JW",2017-01-07,13:02,Sagehorn,MS4,Water,Well water,,,,,,,,,,,"CM, JW",cap not fully closed but parafilm was covering it well,,,,HD494,-52.3,GB669,-8.46,,,,,,
+1296,1297.0,Dry Ck 07 Jan 17 14:20 0.70m,2017-01-07,14:20,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.7,70,,,,,,,,HD494,-64.5,GB669,-9.9,,,,,,
+1297,1298.0,Dry Ck 07 Jan 17 15:45 0.66m,2017-01-07,15:45,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.66,66,,,,,,,,HD494,-62.0,GB669,-9.55,,,,,,
+1298,1299.0,Dry Ck 10:00 0.78 7 Jan 17,2017-01-07,10:00,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.78,78,,,,,,,,HD494,-75.1,GB669,-11.15,,,,,,
+1299,1300.0,Dry Ck 10 Jan 2017 0.97m 12:37,2017-01-10,12:37,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.97,97,,,,,,,,HD494,-66.5,GB669,-9.98,,,,,,
+1300,1301.0,Dry Ck 10:35 10 Jan 17 1.13m WJH,2017-01-10,10:35,Sagehorn,Dry Creek,Water,Stream water,,,,,,,1.13,113,,,,,,,,HD494,-70.9,GB669,-10.6,,,,,,
+1301,1302.0,Dry Ck 07 Jan 17 11:45 0.78m,2017-01-07,11:45,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.78,78,,,,,,,,HD494,-72.8,GB669,-10.72,,,,,,
+1302,1303.0,Dry Ck 07 Jan 17 13:45 0.74m,2017-01-07,13:45,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.74,74,,,,,,,,HD494,-66.6,GB669,-9.94,,,,,,
+1303,1304.0,07 Jan 17 13:00 Dry Ck 0.76m,2017-01-07,13:00,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.76,76,,,,,,,,HD494,-69.0,GB669,-10.35,,,,,,
+1304,1305.0,Dry Ck 07 Jan 176 15:00 0.68m,2017-01-07,15:00,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.68,68,,,,,,,,HD494,-65.4,GB669,-9.77,,,,,,
+1465,1466.0,2/9/17 730,2017-02-09,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-54.0,GB674,-8.65,,,,,,
+1466,1467.0,1/24/17 800,2017-01-24,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-72.6,GB674,-12.32,,,,,,
+1467,1468.0,2/5/17 800,2017-02-05,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-38.9,GB674,-6.95,,,,,,
+1468,1469.0,1/20/17 900,2017-01-20,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-50.1,GB674,-8.75,,,,,,
+1469,1470.0,2/11/17 730,2017-02-11,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-49.2,GB674,-8.03,,,,,,
+1470,1471.0,2/10/2017 730,2017-02-10,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-59.6,GB674,-9.1,,,,,,
+1471,1472.0,1/9/17 800,2017-01-09,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-52.8,GB674,-8.42,,,,,,
+1472,1473.0,1/23/17 800,2017-01-23,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-83.7,GB674,-13.76,,,,,,
+1473,1474.0,2/20/17 800,2017-02-20,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-34.2,GB674,-6.64,,,,,,
+1474,1475.0,1/18/17 830,2017-01-18,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-91.2,GB674,-11.64,,,,,,
+1475,1476.0,2/6/17 730,2017-02-06,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-48.0,GB674,-8.32,,,,,,
+1476,1477.0,1/19/17 800,2017-01-19,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-68.9,GB674,-10.39,,,,,,
+1477,1478.0,1/10/17 830,2017-01-10,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-28.7,GB674,-7.09,,,,,,
+1478,1479.0,2/4/17 730,2017-02-04,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-37.8,GB674,-6.59,,,,,,
+1479,1480.0,2/2/17 800,2017-02-02,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-39.7,GB674,-6.94,,,,,,
+1480,1481.0,1/8/16 830,2016-01-08,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-83.2,GB674,-12.18,,,,,,
+1481,1482.0,2/7/17 730,2017-02-07,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-41.3,GB674,-6.12,,,,,,
+1482,1483.0,2/17/17 830,2017-02-17,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-39.5,GB674,-6.64,,,,,,
+1483,1484.0,2/18/17 830,2017-02-18,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-103.2,GB674,-13.65,,,,,,
+1484,1485.0,2/3/17 800,2017-02-03,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-38.8,GB674,-6.97,,,,,,
+1485,1486.0,2/19/17 900,2017-02-19,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-58.6,GB674,-9.77,,,,,,
+1486,1487.0,2/8/17 700,2017-02-08,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-63.6,GB674,-8.96,,,,,,
+1487,1488.0,1/22/17 900,2017-01-22,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-60.4,GB674,-9.91,,,,,,
+1488,1489.0,2/16/17 800,2017-02-16,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-29.8,GB674,-5.78,,,,,,
+1489,1490.0,1/21/17 700,2017-01-21,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-51.6,GB674,-9.23,,,,,,
+1490,1491.0,1/4/17 730,2017-01-04,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-70.3,GB674,-11.36,,,,,,
+1491,1492.0,1/7/17 800,2017-01-07,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-79.9,GB674,-11.29,,,,,,
+1492,1493.0,1/5/17 830,2017-01-05,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-65.5,GB674,-10.98,,,,,,
+1493,1494.0,1/2/17 800,2017-01-02,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-33.8,GB674,-6.95,,,,,,
+1494,1495.0,1/8/17 8:30,2017-01-08,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-32.6,GB674,-8.33,,,,,,
+1495,1496.0,12/23/16 800,2016-12-23,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-85.9,GB674,-12.33,,,,,,
+1496,1497.0,12/24/16 800,2016-12-24,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-99.0,GB674,-14.64,,,,,,
+1497,1498.0,10/17/16 1600,2016-10-17,16:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-23.9,GB674,-5.7,,,,,,
+1498,1499.0,10/18/16 930,2016-10-18,9:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-21.3,GB674,-5.48,,,,,,
+1499,1500.0,10/15/16 800,2016-10-15,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-6.3,GB674,-3.01,,,,,,
+1500,1501.0,10/3/16 700 HRS,2016-10-03,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-46.0,GB674,-7.49,,,,,,
+1501,1502.0,10/16/16 730,2016-10-16,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-23.0,GB674,-5.34,,,,,,
+1502,1503.0,10/4/16 600,2016-10-04,6:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-45.6,GB674,-8.04,,,,,,
+1503,1504.0,10/14/16 900,2016-10-14,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-23.3,GB674,-4.64,,,,,,
+1504,1505.0,11/1/16 800,2016-11-01,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-48.7,GB674,-8.73,,,,,,
+1505,1506.0,10/31/16 800,2016-10-31,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-52.9,GB674,-8.9,,,,,,
+1506,1507.0,10/25/16 930,2016-10-25,9:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-29.8,GB674,-6.05,,,,,,
+1507,1508.0,10/29/16 800,2016-10-29,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-74.4,GB674,-10.93,,,,,,
+1508,1509.0,10/26/16 900,2016-10-26,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-16.9,GB674,-4.07,,,,,,
+1509,1510.0,9/28/16 800,2016-09-28,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-33.6,GB674,-5.37,,,,,,
+1510,1511.0,8/30/16 800,2016-08-30,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-42.4,GB674,-6.48,,,,,,
+1511,1512.0,12/14/16 800,2016-12-14,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-32.7,GB674,-5.28,,,,,,
+1512,1513.0,12/15/16 900,2016-12-15,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-44.3,GB674,-6.6,,,,,,
+1513,1514.0,##########,2016-12-16,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-118.8,GB674,-15.24,,,,,,
+1514,1515.0,12/9/16 800,2016-12-09,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-41.6,GB674,-5.58,,,,,,
+1515,1516.0,12/10/16 700,2016-12-10,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-54.6,GB674,-7.32,,,,,,
+1516,1517.0,12/12/16 900,2016-12-12,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-89.7,GB674,-11.71,,,,,,
+1517,1518.0,12/8/16 800,2016-12-08,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-72.8,GB674,-10.08,,,,,,
+1518,1519.0,11/6/16 730,2016-11-06,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-17.6,GB674,-4.0,,,,,,
+1519,1520.0,11/15/16 730,2016-11-15,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-19.2,GB674,-3.89,,,,,,
+1520,1521.0,11/12/16 800,2016-11-12,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD499,-20.7,GB674,-3.83,,,,,,
+1541,1542.0,Well 508 SI 9 Mar 17 11:05 SC,2017-03-09,11:05,Sagehorn,W508,Water,Well water,,,,,,,,,,,SC,,,,,HD499,-41.9,GB674,-6.81,,,,,,
+1542,1543.0,Well 500 SI 10/20/16 15:13 SC,2016-10-20,15:13,Sagehorn,W500,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-30.0,GB675,-5.23,,,,,,
+1543,1544.0,Well 502 SI 10/20/16 15:18 SC,2016-10-20,15:18,Sagehorn,W502,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-28.2,GB675,-4.64,,,,,,
+1544,1545.0,Well 501 SI 10/20/16 14:22 SC,2016-10-20,14:22,Sagehorn,W501,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-41.4,GB675,-7.03,,,,,,
+1545,1546.0,Well 507 SI 10/20/16 17:28 SC,2016-10-20,17:28,Sagehorn,W507,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-29.9,GB675,-5.58,,,,,,
+1547,1548.0,Well 506 SI 10/20/165 18:03 SC,2016-10-20,18:03,Sagehorn,W506,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-24.8,GB675,-4.95,,,,,,
+1549,1550.0,Well 502 SI 9 Mar 17 14:56 SC,2017-03-09,14:56,Sagehorn,W502,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-48.5,GB675,-7.72,,,,,,
+1550,1551.0,506 12:00 9 Mar 17 WJH,2017-03-09,12:00,Sagehorn,W506,Water,Well water,,,,,,,,,,,WJH,,,,,HD500,-42.9,GB675,-7.24,,,,,,
+1551,1552.0,Well MS-4 SI 9 Mar 17 13:15 SC,2017-03-09,13:15,Sagehorn,MS4,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-47.6,GB675,-7.91,,,,,,
+1552,1553.0,Dry SI 9 Mar 17 9:10 SC 0.51m,2017-03-09,9:10,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.51,51,,,SC,,,,,HD500,-49.2,GB675,-8.2,,,,,,
+1553,1554.0,Dry SI 9 Mar 17 17:10 SC 0.5m,2017-03-09,17:10,Sagehorn,Dry Creek,Water,Stream water,,,,,,,0.5,50,,,SC,,,,,HD500,-49.1,GB675,-8.21,,,,,,
+1554,1555.0,507 9 Mar 17 11:45 WJH,2017-03-09,11:45,Sagehorn,W507,Water,Well water,,,,,,,,,,,WJH,,,,,HD500,-42.2,GB675,-7.45,,,,,,
+1555,1556.0,MN-1 9 Mar 17 12:45 WJH,2017-03-09,12:45,Sagehorn,MN1,Water,Well water,,,,,,,,,,,WJH,,,,,HD500,-49.9,GB675,-7.99,,,,,,
+1558,1559.0,Well 500 SI 9 Mar 17 14:40 SC,2017-03-09,14:40,Sagehorn,W500,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-49.8,GB675,-8.1,,,,,,
+1559,1560.0,Well 501 SI 9 Mar 17 14:12 SC,2017-03-09,14:12,Sagehorn,W501,Water,Well water,,,,,,,,,,,SC,,,,,HD500,-45.9,GB675,-7.89,,,,,,
+1567,1568.0,"Well 500 SI 20 Feb 17 12:05 SC, KR",2017-02-20,12:05,Sagehorn,W500,Water,Well water,,,,,,,,,,,"SC, KR",,,,,HD500,-51.3,GB675,-8.21,,,,,,
+1568,1569.0,"Well 507 SI 20 Feb 17 13:19 SC, KR",2017-02-20,13:19,Sagehorn,W507,Water,Well water,,,,,,,,,,,"SC, KR",,,,,HD500,-33.0,GB675,-6.02,,,,,,
+1570,1571.0,"Well MN-1 SI 20 Feb 17 13:57 SC, KR",2017-02-20,13:57,Sagehorn,MN1,Water,Well water,,,,,,,,,,,"SC, KR",,,,,HD500,-52.6,GB675,-8.28,,,,,,
+1571,1572.0,"Well 501 SI 20 Feb 17 12:35 SC, KR",2017-02-20,12:35,Sagehorn,W501,Water,Well water,,,,,,,,,,,"SC, KR",,,,,HD500,-41.4,GB675,-6.98,,,,,,
+1572,1573.0,"Dry SI 20 Feb 17 11:15 0.75m SC, KR, JH",2017-02-20,11:15,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,"SC, KR, JM",,,,,HD500,-46.0,GB675,-7.59,,,,,,
+1574,1575.0,Sagehorn WS Precip SI 20 Feb 17 14:07 SC,2017-02-20,14:07,Sagehorn,,Water,Rain,,,,,,,,,,,SC,,,,,HD500,-46.1,GB675,-8.22,,,,,,
+1575,1576.0,"Well MS-4 SI 20 Feb 17 13:35 SC, KR",2017-02-20,13:35,Sagehorn,MS4,Water,Well water,,,,,,,,,,,"SC, KR",,,,,HD500,-50.1,GB675,-8.06,,,,,,
+1576,1577.0,Dry SI 20 Feb 17 14:40 SC,2017-02-20,14:40,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,SC,,,,,HD500,-48.2,GB675,-8.05,,,,,,
+1646,1647.0,"Dry Ck Jan 8, 2017 18:20 0.8 - 0.82 m stg.",2017-01-08,18:20,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,80 to 82,,,,"Switched site from Rivendell to Sagehorn June 29, 2019 - wjh",,,,HD501,-61.1,GB676,-9.45,,,,,,
+1655,1656.0,Dry 18 Feb 2017 14:10 0.54 m,2017-02-18,14:10,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,HD501,-56.4,GB676,-8.79,,,,,,
+1656,1657.0,Dry Ck 18 Feb 2017 18:45,2017-02-18,18:45,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,HD501,-55.7,GB676,-8.65,,,,,,
+1658,1659.0,"Well 502 19 Feb 17 13:50 2m KR, SC, EB",2017-02-18,13:50,Sagehorn,W502,Water,Well water,,,,,,,,200,,,"KR, SC, EB",,,,,HD501,-55.3,GB676,-8.47,,,,,,
+1659,1660.0,"Well 500 SI 18 Feb 17 15:27 SC, KR, EB",2017-02-18,15:27,Sagehorn,W500,Water,Well water,,,,,,,,,,,"SC, KR, EB",,,,,HD501,-54.0,GB676,-8.44,,,,,,
+1660,1661.0,SI MS4 1m 18 Feb 17 18:03,2017-02-18,18:03,Sagehorn,MS4,Water,Well water,,,,,,,,100,,,,,,,,HD501,-53.3,GB676,-8.3,,,,,,
+1661,1662.0,"506 2m 18 Feb 17 SI 17:45 SC, KR",2017-02-18,17:45,Sagehorn,W506,Water,Well water,,,,,,,,,,,"SC, KR",,,,,HD501,-46.9,GB676,-7.51,,,,,,
+1663,1664.0,"506 16m SI 18 Feb 17 17:50 KR, SC, EB",2017-02-18,17:50,Sagehorn,W506,Water,Well water,,,,,,,,1600,,,"KR, SC, EB",,,,,HD501,-41.4,GB676,-6.95,,,,,,
+1664,1665.0,"Well 501 SI 18 Feb 17 15:00 KR, EB, SC",2017-02-18,15:00,Sagehorn,W501,Water,Well water,,,,,,,,,,,"KR, EB, SC",,,,,HD501,-65.1,GB676,-9.59,,,,,,
+1665,1666.0,"SI MN1 18 Feb 17 18:20 SC, KR, EB 1m",2017-02-18,18:20,Sagehorn,MN1,Water,Well water,,,,,,,,100,,,"SC, KR, EB",,,,,HD501,-53.8,GB676,-8.53,,,,,,
+1666,1667.0,"SI 507 2m 18 Feb 17 17:25 SC, EB, KR",2017-02-18,17:25,Sagehorn,W507,Water,Well water,,,,,,,,200,,,"SC, EB, KR",,,,,HD501,-47.5,GB676,-7.69,,,,,,
+1667,1668.0,"SI 508 1.5m 17 Feb 18 17:15 KR, EB",2017-02-18,17:15,Sagehorn,W508,Water,Well water,,,,,,,,150,,,"KR, EB",,,,,HD501,-45.8,GB676,-7.45,,,,,,
+1714,1715.0,"Sagehorn soils Feb 20, 2017 M97",2017-02-20,,Sagehorn,Near MS-4,Soil or rock,Surface soil,,,,,,,0.0,0,,,WJH,Water extracted from soil,,,,HD501,-48.6,GB676,-7.07,,,,,,
+1715,1716.0,"Sagehorn soils Feb 20, 2017 M101",2017-02-20,,Sagehorn,Near MS-4,Soil or rock,Surface soil,,,,,,,0.0,0,,,WJH,Water extracted from soil,,,,HD501,-59.3,GB676,-8.65,,,,,,
+1716,1717.0,"Sagehorn soils Feb 20, 2017 M103",2017-02-20,,Sagehorn,Near MS-4,Soil or rock,Surface soil,,,,,,,0.0,0,,,WJH,Water extracted from soil,,,,HD501,-60.6,GB676,-8.97,,,,,,
+1717,1718.0,"Sagehorn soils Feb 20, 2017 M99",2017-02-20,,Sagehorn,Near MS-4,Soil or rock,Surface soil,,,,,,,0.0,0,,,WJH,Water extracted from soil,,,,HD501,-65.3,GB676,-9.17,,,,,,
+1718,1719.0,"Sagehorn soils Feb 20, 2017 M98",2017-02-20,,Sagehorn,Near MS-4,Soil or rock,Surface soil,,,,,,,0.0,0,,,WJH,Water extracted from soil,,,,HD501,-59.8,GB676,-8.62,,,,,,
+1737,1738.0,"Well 506 SI 23 Apr 17 11:20 2.61 ON, TS",2017-04-23,11:20,Sagehorn,W506,Water,Well water,,,,,,2.61,,,,,"ON, TS",,,,,HD506,-40.4,GB681,-6.66,,,,,,
+1738,1739.0,Well MN-1 SI 23 Apr 17 12:55 1.75 ON TS,2017-04-23,12:55,Sagehorn,MN1,Water,Well water,,,,,,1.75,,,,,"ON, TS",,,,,HD506,-46.8,GB681,-7.75,,,,,,
+1739,1740.0,"Well 507 SI 23 Apr 17 12:03 0.44 ON, TS",2017-04-23,12:03,Sagehorn,W507,Water,Well water,,,,,,0.44,,,,,"ON, TS",,,,,HD506,-37.7,GB681,-6.35,,,,,,
+1740,1741.0,"Well 500 SI 23 Apr 17 10:08 2.91 ON, TS",2017-04-23,10:08,Sagehorn,W500,Water,Well water,,,,,,2.91,,,,,"ON, TS",,,,,HD506,-47.8,GB681,-7.57,,,,,,
+1741,1742.0,"Dry SI 23 Apr 17 11:28 WJH, SC",2017-04-23,11:28,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,"WJH, SC",,,,,HD506,-46.3,GB681,-7.52,,,,,,
+1743,1744.0,"Well 502 SI 23 Apr 17 10:44 2.68 ON, TS",2017-04-23,10:44,Sagehorn,W502,Water,Well water,,,,,,2.68,,,,,"ON, TS",,,,,HD506,-46.6,GB681,-7.85,,,,,,
+1744,1745.0,"Well 508 SI 23 Apr 17 12:13 1.75 ON, TS",2017-04-23,12:13,Sagehorn,W508,Water,Well water,,,,,,1.75,,,,,"ON, TS",,,,,HD506,-38.4,GB681,-6.73,,,,,,
+1746,1747.0,"Well 501 SI 23 Apr 13 10:26 9.07 ON, TS",2017-04-23,10:26,Sagehorn,W501,Water,Well water,,,,,,9.07,,,,,"ON, TS",,,,,HD506,-45.0,GB681,-7.56,,,,,,
+1830,1831.0,4/10/17 800,2017-04-10,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-15.6,GB680,-4.48,,,,,,
+1831,1832.0,4/11/17 800,2017-04-11,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-72.7,GB680,-10.79,,,,,,
+1832,1833.0,4/13/17 730,2017-04-13,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-48.5,GB680,-8.13,,,,,,
+1833,1834.0,4/18/17 700,2017-04-18,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-22.0,GB680,-4.6,,,,,,
+1834,1835.0,3/22/17 800,2017-03-22,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-28.7,GB680,-5.28,,,,,,
+1835,1836.0,3/20/17 700,2017-03-20,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-54.4,GB680,-6.41,,,,,,
+1836,1837.0,3/18/17 730,2017-03-18,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-8.7,GB680,-1.8,,,,,,
+1837,1838.0,4/17/17 730,2017-04-17,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-19.5,GB680,-4.3,,,,,,
+1838,1839.0,3/19/17 730,2017-03-19,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-34.5,GB680,-4.72,,,,,,
+1839,1840.0,4/7/17 800,2017-04-07,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-41.7,GB680,-7.16,,,,,,
+1840,1841.0,3/27/17 800,2017-03-27,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-38.6,GB680,-6.39,,,,,,
+1841,1842.0,4/12/17 730,2017-04-12,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-30.8,GB680,-5.77,,,,,,
+1842,1843.0,3/25/17 930,2017-03-25,9:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-83.1,GB680,-12.06,,,,,,
+1843,1844.0,4/6/17 800,2017-04-06,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-61.8,GB680,-8.77,,,,,,
+1844,1845.0,4/8/17 800,2017-04-08,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-35.3,GB680,-7.04,,,,,,
+1845,1846.0,3/21/17 800,2017-03-21,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-32.3,GB680,-5.87,,,,,,
+1846,1847.0,4/9/17 630,2017-04-09,6:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-57.7,GB680,-9.94,,,,,,
+1847,1848.0,3/26/17 830,2017-03-26,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-64.0,GB680,-8.98,,,,,,
+1848,1849.0,3/24/17 800,2017-03-24,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-94.3,GB680,-12.91,,,,,,
+1849,1850.0,4/14/17 730,2017-04-14,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-35.1,GB680,-7.04,,,,,,
+1850,1851.0,2/21/17 830,2017-02-21,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-41.7,GB680,-7.41,,,,,,
+1851,1852.0,3/7/17 800,2017-03-07,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-46.2,GB680,-9.26,,,,,,
+1852,1853.0,2/22/17 830,2017-02-22,8:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-46.2,GB680,-7.87,,,,,,
+1853,1854.0,3/4/17 800,2017-03-04,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-43.1,GB680,-8.2,,,,,,
+1854,1855.0,3/8/17 730,2017-03-08,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-37.1,GB680,-7.51,,,,,,
+1855,1856.0,3/5/17 800,2017-03-05,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD505,-38.9,GB680,-6.69,,,,,,
+1948,1949.0,Well 500 SI 18 June 2017 10:17 3.77 ON MU TU,2017-06-18,10:17,Sagehorn,W500,Water,Well water,,,,,,,,377,,,"ON, MU, TU",,,,,HD512,-48.1,GB684,-7.63,,,,,,
+1949,1950.0,Well 502 SI 8 June 2017 10:36 3.09 SC ON MU,2017-06-18,10:36,Sagehorn,W502,Water,Well water,,,,,,,,309,,,"SC, ON, MU",,,,,HD512,-48.1,GB684,-7.59,,,,,,
+1950,1951.0,Well 506 SI 18 June 17 11:10 5.06 ON MU TU SC,2017-06-18,11:10,Sagehorn,W506,Water,Well water,,,,,,,,506,,,"SC, ON, MU, TU",,,,,HD512,-43.5,GB684,-6.92,,,,,,
+1952,1953.0,Well 501 SI 18 June 2017 10:29 9.90 SC ON MU TU,2017-06-18,10:29,Sagehorn,W501,Water,Well water,,,,,,,,990,,,"SC, ON, MU, TU",,,,,HD512,-51.6,GB684,-8.13,,,,,,
+1953,1954.0,Dry SI 18 Jun 17 12:08 SC 0.28 m,2017-06-18,12:08,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,28,,,SC,,,,,HD512,-45.1,GB684,-6.61,,,,,,
+1954,1955.0,Dry CK 25 May 2017 13:00 0.2925 m,2017-05-25,13:00,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,29.3,,,,,,,,HD512,-46.2,GB684,-7.17,,,,,,
+1955,1956.0,Sagehorn Well 501 Stable Isotope 26 May 17 10:40 9.37 m MU ON,2017-05-26,10:40,Sagehorn,W501,Water,Well water,,,,,,,,937,,,"MU, ON",,,,,HD512,-52.1,GB684,-8.07,,,,,,
+1956,1957.0,Dry Ck 26 May 2017 12:45 0.29 m,2017-05-26,12:45,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,29,,,,,,,,HD512,-44.5,GB684,-6.79,,,,,,
+1958,1959.0,Well 507 SI 26 May 17 12:13 3.05 MU ON,2017-05-26,12:13,Sagehorn,W507,Water,Well water,,,,,,,,305,,,"MU, ON",,,,,HD512,-40.8,GB684,-6.66,,,,,,
+1959,1960.0,Well MS-4 SI 26 May 17 12:58 1.50 ON MU TU,2017-05-26,12:58,Sagehorn,MS4,Water,Well water,,,,,,,,150,,,"ON, MU, TU",,,,,HD512,-44.3,GB684,-6.98,,,,,,
+1960,1961.0,Well 508 SI 26 May 17 11:50 1.50 ON MU NS,2017-05-26,11:50,Sagehorn,W508,Water,Well water,,,,,,,,150,,,"ON, MU, NS",,,,,HD512,-40.7,GB684,-6.65,,,,,,
+1961,1962.0,Well 500 26 May 17 SI 10:10 3.50 ON MU TU,2017-05-26,10:10,Sagehorn,W500,Water,Well water,,,,,,,,350,,,"ON, MU, TU",,,,,HD512,-47.5,GB684,-7.51,,,,,,
+1962,1963.0,Sagehorn Well 502 Stable Isotope 26 May 17 10:30 3.23 m MN TU ON,2017-05-26,10:30,Sagehorn,W502,Water,Well water,,,,,,,,323,,,"MN, TU, ON",Sample very cloudy,,,,HD512,-47.4,GB684,-7.39,,,,,,
+1964,1965.0,Well 508 07-10-2017 1440,2017-07-10,14:40,Sagehorn,W508,Water,Well water,,,,,,,,,,,,Sample cloudy,,,,HD512,-42.2,GB684,-6.57,,,,,,
+1965,1966.0,Well 502 07-10-2017 12:35,2017-07-10,12:35,Sagehorn,W502,Water,Well water,,,,,,,,,,,,,,,,HD512,-48.8,GB684,-7.75,,,,,,
+1966,1967.0,Well 501 07-10-2017 11:55,2017-07-10,11:55,Sagehorn,W501,Water,Well water,,,,,,,,,,,,,,,,HD512,-52.4,GB684,-8.02,,,,,,
+1968,1969.0,Well 506 07-10-2017 14:20,2017-07-10,14:20,Sagehorn,W506,Water,Well water,,,,,,,,,,,,,,,,HD512,-43.3,GB684,-6.81,,,,,,
+1970,1971.0,Well 500 7/10/17 1120,2017-07-10,11:20,Sagehorn,W500,Water,Well water,,,,,,,,,,,,,,,,HD512,-48.8,GB684,-7.56,,,,,,
+1971,1972.0,Dry 7/14/17 11:28,2017-07-14,11:28,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,,,,,,,,,HD512,-15.0,GB684,1.11,,,,,,
+2067,2068.0,SAGE 1 2017-05-26 16:30 WJH,2017-05-26,16:30,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-51.59,GB687,-6.98,,,,,,
+2068,2069.0,SAGE 3 2017-05-26 16:30 WJH,2017-05-26,16:30,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-53.72,GB687,-7.14,,,,,,
+2069,2070.0,SAGE 4 2017-05-26 16:30 WJH,2017-05-26,16:30,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-55.26,GB687,-7.81,,,,,,
+2070,2071.0,SAGE 5 2017-05-26 16:30 WJH,2017-05-26,16:00,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-53.06,GB687,-7.52,,,,,,
+2071,2072.0,SAGE 208 2017-05-26 16:00 WJH,2017-05-26,16:00,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-56.32,GB687,-7.78,,,,,,
+2072,2073.0,SAGE NTADJ 2017-05-26 16:00 WJH,2017-05-26,19:00,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-49.51,GB687,-6.85,,,,,,
+2086,2087.0,SAGE 206 07-10-2017 17:32,2017-07-10,17:32,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,texans,,,,,HD515,-55.21,GB687,-7.26,,,,,,
+2087,2088.0,SAGE 207 07-10-2017 17:42,2017-07-10,17:42,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,texans,,,,,HD515,-53.52,GB687,-7.23,,,,,,
+2089,2090.0,M206,2017-04-23,14:00,Sagehorn,"5 m downslope of MS-4, in line with trees in hollow",Soil or rock,Drilled material,Soil,,,,,,0.12,12,,0.2104990279,WJH,,,,,HD515,-41.74,GB687,-6.39,,,,,0.1739,0.0224
+2090,2091.0,M207,2017-04-23,14:00,Sagehorn,"5 m downslope of MS-4, in line with trees in hollow - below water table",Soil or rock,Drilled material,Soil,,,,,,0.38,38,,0.2196201719,WJH,,,,,HD515,-47.54,GB687,-7.3,,saturated,,,0.1801,0.0779
+2091,2092.0,M208,2017-04-23,14:00,Sagehorn,"5 m downslope of MS-4, in line with trees in hollow - below water table",Soil or rock,Drilled material,Soil,,,,,,0.46,46,,0.2463237398,WJH,,,,,HD515,-60.93,GB687,-7.95,,saturated,,,0.1976,0.0621
+2092,2093.0,M209,2017-04-23,14:00,Sagehorn,"5 m downslope of MS-4, in line with trees in hollow - below water table, sandy saprolite/rock, very gooey too",Soil or rock,Drilled material,Saprolite,,,,,,0.54,54,,0.1955574386,WJH,,,,,HD515,-61.11,GB687,-7.3,,saturated,,,0.1636,0.0837
+2093,2094.0,M210,2017-04-23,14:00,Sagehorn,"5 m downslope of MS-4, in line with trees in hollow - below water table, sandy saprolite/rock, very gooey too",Soil or rock,Drilled material,Weathered bedrock,,,,,,0.78,78,,0.2111428961,WJH,,,,,HD515,-47.01,GB687,-7.07,,saturated,,,0.1743,0.0666
+2094,2095.0,M211,2017-04-23,14:00,Sagehorn,"5 m downslope of MS-4, in line with trees in hollow - below water table, sandy saprolite/rock, very gooey too",Soil or rock,Drilled material,Saprolite,,,,,,0.62,62,,0.1996552715,WJH,,,,,HD515,-51.96,GB687,-7.09,,saturated,,,0.1664,0.075
+2095,2096.0,M212,2017-04-23,14:00,Sagehorn,"5 m downslope of MS-4, in line with trees in hollow - below water table, sandy saprolite/rock, very gooey too",Soil or rock,Drilled material,Weathered bedrock,,,,,,1.05,105,,0.1888071859,WJH,,,,,HD515,-48.36,GB687,-7.29,,saturated,,,0.1588,0.0697
+2096,2097.0,M233,2017-08-17,16:20,Sagehorn,5 m upslope of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,,WJH,dusty grey very dry grass roots,,,,HD515,-42.15,GB687,2.27,,,,,,
+2097,2098.0,M234,2017-08-17,16:20,Sagehorn,5 m upslope of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.09122738767,WJH,,,,,HD515,-65.61,GB687,-6.87,,,,,0.0836,
+2098,2099.0,M235,2017-08-17,16:20,Sagehorn,5 m upslope of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.4,40,,0.1351568785,WJH,grey brown very dry dusty,,,,HD515,-68.16,GB687,-8.57,,,,,0.1191,
+2099,2100.0,M236,2017-08-17,16:20,Sagehorn,5 m upslope of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.6,60,,0.1402314253,WJH,reddish dry,,,,HD515,-66.35,GB687,-9.16,,,,,0.123,
+2100,2101.0,M237,2017-08-17,16:20,Sagehorn,5 m upslope of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.0,100,,0.16835182399999998,WJH,(soil sap boundary at 70 cm) clay rich darker grey hue,,,,HD515,-63.97,GB687,-9.07,,,,,0.1441,
+2101,2102.0,M238,2017-08-17,16:20,Sagehorn,5 m upslope of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.45,145,,0.1369426752,WJH,"greyer clay dark inside clump, w/ small white nodules",,,,HD515,-67.13,GB687,-9.58,,,,,0.1204,
+2102,2103.0,M239,2017-08-17,16:20,Sagehorn,5 m upslope of MN-1,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.6,160,,0.128070721,WJH,darker clay rich slightly gooey,,,,HD515,-67.41,GB687,-9.46,,,,,0.1135,
+2103,2104.0,M76,2017-08-17,17:20,Sagehorn,near MS-4,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.09850627449,WJH,light grey dusty dry,,,,HD515,-52.48,GB687,-0.86,,,,,0.08967292839,
+2104,2105.0,M77,2017-08-17,17:20,Sagehorn,near MS-4,Soil or rock,Drilled material,Soil,,,,,,0.25,25,,0.09538269372,WJH,"blacker, grey",,,,HD515,-61.45,GB687,-6.3,,,,,0.08707705012,0.0836
+2105,2106.0,M79,2017-08-17,17:20,Sagehorn,near MS-4,Soil or rock,Drilled material,Soil,,,,,,0.5,50,,0.1240529404,WJH,lighter grey brown dry,,,,HD515,-90.67,GB687,-8.72,,,,,0.1103621866,0.1191
+2106,2107.0,M80,2017-08-17,17:20,Sagehorn,near MS-4,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.8,80,,0.1238835688,WJH,yellower hue,,,,HD515,-62.37,GB687,-8.45,,,,,0.1102281164,0.123
+2107,2108.0,M221,2017-05-26,16:00,Sagehorn,1.5 m SW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,1.0,100,,0.1585817605,WJH,"light brown, loose soil",,,,HD515,-48.22,GB687,-6.3,,,,,0.1369,0.0286
+2108,2109.0,M222,2017-05-26,16:00,Sagehorn,1.5 m SW of MN-1,Soil or rock,Drilled material,Soil,,,,,,0.23,23,,0.2007143888,WJH,"light brown, loose soil (soil/sap boundary at 35cm)",,,,HD515,-60.55,GB687,-8.17,,,,,0.1672,0.0578
+2109,2110.0,M223,2017-05-26,16:00,Sagehorn,1.5 m SW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.4,40,,0.1282790241,WJH,"small rock frags, sandy",,,,HD515,-62.31,GB687,-8.31,,,,,0.1137,0.0759
+2110,2111.0,M224,2017-05-26,16:00,Sagehorn,1.5 m SW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.5,50,,0.1807228916,WJH,"yellow-red, rock frags, some clay",,,,HD515,-65.47,GB687,-9.18,,,,,0.1531,0.0853
+2111,2112.0,M225,2017-05-26,16:00,Sagehorn,1.5 m SW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.7,70,,0.1279888463,WJH,"more clay rich, gooey",,,,HD515,-62.92,GB687,-8.91,,,,,0.1135,0.0327
+2112,2113.0,M226,2017-05-26,16:00,Sagehorn,1.5 m SW of MN-1,Soil or rock,Drilled material,Saprolite,,,,,,0.85,85,,0.1649507119,WJH,"grey-black, smearing, goo-like w/ rock frag",,,,HD515,-55.39,GB687,-8.13,,,,,0.1416,0.0394
+2113,2114.0,M227,2017-05-26,16:30,Sagehorn,4 m downslope of MS-4 in hollow between trees,Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.17376497300000002,WJH,"light-brown loose soil, roots",,,,HD515,-54.26,GB687,-7.06,,,,,0.14800000000000002,0.0619
+2114,2115.0,M228,2017-05-26,16:30,Sagehorn,4 m downslope of MS-4 in hollow between trees,Soil or rock,Drilled material,Soil,,,,,,0.2,20,,0.14117787699999998,WJH,"light-brown loose soil, roots",,,,HD515,-53.57,GB687,-7.38,,,,,0.1237,0.0613
+2115,2116.0,M229,2017-05-26,16:30,Sagehorn,4 m downslope of MS-4 in hollow between trees,Soil or rock,Drilled material,Soil,,,,,,0.4,40,,0.15527419609999998,WJH,"slightly moister, mor eclay",,,,HD515,-59.6,GB687,-7.45,,,,,0.1344,0.0421
+2116,2117.0,M230,2017-05-26,16:30,Sagehorn,4 m downslope of MS-4 in hollow between trees,Soil or rock,Drilled material,Saprolite,,,,,,0.6,60,,0.1710647983,WJH,"clay, wetter",,,,HD515,-58.08,GB687,-8.01,,,,,0.1461,0.0879
+2117,2118.0,M231,2017-05-26,16:30,Sagehorn,4 m downslope of MS-4 in hollow between trees,Soil or rock,Drilled material,Weathered bedrock,,,,,,0.8,80,,0.1764035879,WJH,"smearing black, clayey",,,,HD515,-57.67,GB687,-8.11,,,,,0.15,0.0791
+2118,2119.0,M232,2017-05-26,16:30,Sagehorn,4 m downslope of MS-4 in hollow between trees,Soil or rock,Drilled material,Weathered bedrock,,,,,,1.0,100,,0.08067250308,WJH,"crumbly grey, drier (why?)",,,,HD515,-59.97,GB687,-8.36,,,,,0.0747,0.0774
+2137,2138.0,SAGE T205 2015-06-10 IS,2015-06-10,,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,,,,,,ilana stein,,,,,HD515,-55.55,GB687,-7.98,,,,,,
+2138,2139.0,SAGE T206 2015-06-10 IS,2015-06-10,,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,ilana stein,,,,,HD515,-54.92,GB687,-7.33,,,,,,
+2139,2140.0,SAGE T207 2015-06-10 IS,2015-06-10,,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,ilana stein,,,,,HD515,-55.67,GB687,-7.8,,,,,,
+2140,2141.0,SAGE T208 2015-06-10 IS,2015-06-10,,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,,,,,,ilana stein,,,,,HD515,-56.2,GB687,-7.89,,,,,,
+2141,2142.0,SAGE T209 2015-06-10 IS,2015-06-10,,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,,,,,,ilana stein,,,,,HD515,-55.27,GB687,-8.36,,,,,,
+2143,2144.0,SAGE T205 2015-09-26 CW,2015-09-26,,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,,,,,,chris wong,,,,,HD515,-52.52,GB687,-6.48,,,,,,
+2144,2145.0,SAGE T206 2015-09-26 CW,2015-09-26,,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,chris wong,,,,,HD515,-57.51,GB687,-7.64,,,,,,
+2145,2146.0,SAGE T207 2015-09-26 CW,2015-09-26,,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,chris wong,,,,,HD515,-54.9,GB687,-6.67,,,,,,
+2147,2148.0,SAGE T209 2015-09-26 CW,2015-09-26,,Sagehorn,T168/209,Tree,Stem,,168.0,209.0,Oregon white (Garry) oak,QUGA,,,,,,chris wong,,,,,HD515,-53.62,GB687,-6.79,,,,,,
+2148,2149.0,SAGE 1 STEM 2017-08-17 15:20 WJH,2017-08-17,15:20,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-56.19,GB687,-7.56,,,,,,
+2149,2150.0,SAGE 3 STEM 2017-08-17 15:38 WJH,2017-08-17,15:38,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-58.52,GB687,-8.04,,,,,,
+2150,2151.0,SAGE 4 STEM 2017-08-17 15:30 WJH,2017-08-17,15:30,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-59.9,GB687,-8.03,,,,,,
+2151,2152.0,SAGE 5 STEM 2017-08-17 15:32 WJH,2017-08-17,15:32,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-59.19,GB687,-8.12,,,,,,
+2152,2153.0,SAGE 166 STEM 2017-08-17 15:00 WJH,2017-08-17,15:00,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-56.21,GB687,-7.2,,,,,,
+2153,2154.0,SAGE 167 STEM 2017-08-17 14:55 WJH,2017-08-17,14:55,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-58.91,GB687,-7.93,,,,,,
+2154,2155.0,SAGE 1 CORE 2017-08-17 15:25 WJH,2017-08-17,15:25,Sagehorn,T1/207,Tree,Tree core,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-58.75,GB687,-6.98,,,,,,
+2155,2156.0,SAGE 3 CORE 2017-08-17 15:43 WJH,2017-08-17,15:43,Sagehorn,T3/204,Tree,Tree core,,3.0,204.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-58.54,GB687,-7.21,,,,,,
+2156,2157.0,SAGE 4 CORE 2017-08-17 15:35 WJH,2017-08-17,15:35,Sagehorn,T4/205,Tree,Tree core,,4.0,205.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-60.08,GB687,-7.2,,,,,,
+2157,2158.0,SAGE 5 CORE 2017-08-17 15:33 WJH,2017-08-17,15:33,Sagehorn,T5/206,Tree,Tree core,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-59.16,GB687,-7.62,,,,,,
+2158,2159.0,SAGE 166 CORE 2017-08-17 15:15 WJH,2017-08-17,15:15,Sagehorn,T166/NT ADJ,Tree,Tree core,,166.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-54.68,GB687,-7.49,,,,,,
+2159,2160.0,SAGE 167 CORE 2017-08-17 15:10 WJH,2017-08-17,15:10,Sagehorn,T167/208,Tree,Tree core,,167.0,208.0,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD515,-60.57,GB687,-7.25,,,,,,
+2184,2185.0,SAGE 1 QUGA 2017-09-14 10:25 WJH CORE,2017-09-14,10:25,Sagehorn,T1/207,Tree,Tree core,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-54.1,GB691,-7.9,,,,,,
+2185,2186.0,SAGE 3 QUGA 2017-09-14 10:30 WJH CORE,2017-09-14,10:30,Sagehorn,T3/204,Tree,Tree core,,3.0,204.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-56.4,GB691,-8.01,,,,,,
+2186,2187.0,SAGE 4 QUGA 2017-09-14 10:35 WJH CORE,2017-09-14,10:35,Sagehorn,T4/205,Tree,Tree core,,4.0,205.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-57.9,GB691,-8.11,,,,,,
+2187,2188.0,SAGE 5 QUGA 2017-09-14 10:40 WJH CORE,2017-09-14,10:40,Sagehorn,T5/206,Tree,Tree core,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-57.3,GB691,-8.37,,,,,,
+2188,2189.0,SAGE 166 QUGA 2017-09-14 10:10 WJH CORE,2017-09-14,10:10,Sagehorn,T166/NT ADJ,Tree,Tree core,,166.0,,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-49.9,GB691,-7.76,,,,,,
+2189,2190.0,SAGE 167 QUGA 2017-09-14 10:00 WJH CORE,2017-09-14,10:00,Sagehorn,T167/208,Tree,Tree core,,167.0,208.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-58.6,GB691,-8.13,,,,,,
+2190,2191.0,SAGE 1 QUGA 2017-09-14 10:25 STEM,2017-09-14,10:25,Sagehorn,T1/207,Tree,Stem,,1.0,207.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-53.1,GB691,-8.37,,,,,,
+2191,2192.0,SAGE 3 QUGA 2017-09-14 10:30 WJH STEM,2017-09-14,10:30,Sagehorn,T3/204,Tree,Stem,,3.0,204.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-55.5,GB691,-8.92,,,,,,
+2192,2193.0,SAGE 4 QUGA 2017-09-14 10:35 WJH STEM,2017-09-14,10:35,Sagehorn,T4/205,Tree,Stem,,4.0,205.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-56.5,GB691,-8.68,,,,,,
+2193,2194.0,SAGE 5 QUGA 2017-09-14 10:40 WJH STEM,2017-09-14,10:40,Sagehorn,T5/206,Tree,Stem,,5.0,206.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-54.6,GB691,-8.85,,,,,,
+2194,2195.0,SAGE 166 QUGA 2017-09-14 10:10 WJH STEM,2017-09-14,10:10,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-51.9,GB691,-7.29,,,,,,
+2195,2196.0,SAGE 167 QUGA 2017-09-14 10:00 WJH STEM,2017-09-14,10:10,Sagehorn,T167/208,Tree,Stem,,167.0,208.0,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD519,-54.2,GB691,-8.15,,,,,,
+2234,2235.0,M201,2017-09-14,10:45,Sagehorn,"3 m S of T3, sagehorn (on side-slope above MS-4 hollow)",Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.07998712632999999,,"loose, dry, brown-grey soil w/ small roots",,,,HD519,-51.3,GB691,-3.07,,,,,0.0741,0.136
+2235,2236.0,M202,2017-09-14,10:45,Sagehorn,"3 m S of T3, sagehorn (on side-slope above MS-4 hollow)",Soil or rock,Drilled material,Weathered bedrock,,,,,,0.4,40,,0.08002538057,,"wx rock, dusty grey",,,,HD519,-62.3,GB691,-8.74,,,,,0.0741,0.042
+2236,2237.0,M203,2017-09-14,10:45,Sagehorn,"3 m S of T3, sagehorn (on side-slope above MS-4 hollow)",Soil or rock,Drilled material,Weathered bedrock,,,,,,0.65,65,,0.1093519563,,"lots of wx rock pieces, dusty grey (dry)",,,,HD519,-67.2,GB691,-9.68,,,,,0.0986,0.0744
+2237,2238.0,M204,2017-09-14,10:45,Sagehorn,"3 m S of T3, sagehorn (on side-slope above MS-4 hollow)",Soil or rock,Drilled material,Weathered bedrock,,,,,,0.95,95,,0.09885321101,,"dusty! rocky, dry",,,,HD519,-64.5,GB691,-9.71,,,,,0.09,0.0751
+2241,2242.0,1/4/18 10:00,2018-01-04,10:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-44.4,GB697,-7.59,,,,,,
+2242,2243.0,1/9/18 6:00,2018-01-09,6:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-129.1,GB697,-18.11,,,,,,
+2243,2244.0,1/5/18 5:30,2018-01-05,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-38.3,GB697,-6.46,,,,,,
+2244,2245.0,##########,2017-11-20,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-43.1,GB697,-7.84,,,,,,
+2245,2246.0,1/10/18 9:00,2018-01-10,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-44.6,GB697,-8.02,,,,,,
+2246,2247.0,1/8/18 7:00,2018-01-08,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-91.7,GB697,-13.37,,,,,,
+2247,2248.0,##########,2017-11-21,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-48.1,GB697,-7.88,,,,,,
+2248,2249.0,##########,2017-11-24,6:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-28.8,GB697,-5.62,,,,,,
+2249,2250.0,1/11/18 7:00,2018-01-11,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-25.6,GB697,-5.91,,,,,,
+2250,2251.0,##########,2017-11-17,6:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-20.9,GB697,-6.04,,,,,,
+2251,2252.0,##########,2017-11-15,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-59.4,GB697,-9.6,,,,,,
+2252,2253.0,12/3/17 7:30,2017-12-03,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-38.6,GB697,-7.83,,,,,,
+2253,2254.0,1/6/18 8:00,2018-01-06,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-42.5,GB697,-6.81,,,,,,
+2254,2255.0,##########,2017-11-16,6:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-57.3,GB697,-9.34,,,,,,
+2255,2256.0,##########,2017-11-26,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-43.5,GB697,-6.8,,,,,,
+2256,2257.0,##########,2017-11-27,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD525,-35.1,GB697,-6.3,,,,,,
+2340,2341.0,12:50 Sage 506 18/01/11 MW,2018-01-11,12:50,Sagehorn,W506,Water,Well water,,,,,,,,,,,MW,,,,,HD526,-50.9,GB698,-8.0,,,,,,
+2341,2342.0,Sage 507 MW 12:33 18/01/11,2018-01-11,12:33,Sagehorn,W507,Water,Well water,,,,,,,,,,,MW,,,,,HD526,-75.6,GB698,-10.92,,,,,,
+2343,2344.0,Sage 502 MW 18/01/11 13:03,2018-01-11,13:03,Sagehorn,W502,Water,Well water,,,,,,,,,,,MW,,,,,HD526,-49.8,GB698,-7.98,,,,,,
+2344,2345.0,508 Sage MW 12:55 18/01/11,2018-01-11,12:55,Sagehorn,W508,Water,Well water,,,,,,,,,,,MW,,,,,HD526,-56.0,GB698,-8.72,,,,,,
+2345,2346.0,Sage 500 MW 13:18 2018/01/11,2018-01-11,13:18,Sagehorn,W500,Water,Well water,,,,,,,,,,,MW,,,,,HD526,-43.7,GB698,-7.17,,,,,,
+2346,2347.0,MS4 11:24 18/01/11 MW,2018-01-11,11:24,Sagehorn,MS4,Water,Well water,,,,,,,,,,,MW,,,,,HD526,-45.4,GB698,-7.56,,,,,,
+2347,2348.0,Dry Crk 2018-01-11 9:38 0.435m,2018-01-11,9:38,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,43.5,,,,,,,,HD526,-49.7,GB698,-8.09,,,,,,
+2348,2349.0,Dry Crk 1/8/18 13:50 0.67 m,2018-01-08,13:50,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,67,,,,,,,,HD526,-63.6,GB698,-9.79,,,,,,
+2349,2350.0,Dry Crk 16:19 18/01/11 MW 0.438,2018-01-11,16:19,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,43.8,,,MW,,,,,HD526,-50.3,GB698,-8.19,,,,,,
+2350,2351.0,MN1 1400 2018/01/11 MW,2018-01-11,14:00,Sagehorn,MN1,Water,Well water,,,,,,,,,,,MW,,,,,HD526,-40.5,GB698,-7.07,,,,,,
+2423,2424.0,"Sage Well 500 2017/10/09 MW, AD 14:35",2017-10-09,14:35,Sagehorn,W500,Water,Well water,,,,,,,,,,,"MW, AD",,,,,HD527,-47.4,GB699,-7.27,,,,,,
+2424,2425.0,Sage 501 2017/10/09 16:30,2017-10-09,16:30,Sagehorn,W501,Water,Well water,,,,,,,,,,,MW,,,,,HD527,-50.5,GB699,-7.75,,,,,,
+2425,2426.0,Sage 502 2017/10/09 15:15 MW,2017-10-09,15:15,Sagehorn,W502,Water,Well water,,,,,,,,,,,MW,,,,,HD527,-47.8,GB699,-7.36,,,,,,
+2426,2427.0,"Sagehorn Well 506 2017/10/13 10:34 AD, MW",2017-10-13,10:34,Sagehorn,W506,Water,Well water,,,,,,,,,,,"MW, AD",,,,,HD527,-43.2,GB699,-6.61,,,,,,
+2428,2429.0,"Sage 507 2017/10/13 11:45 MW, AD",2017-10-13,11:45,Sagehorn,W507,Water,Well water,,,,,,,,,,,"MW, AD",,,,,HD527,-45.2,GB699,-7.1,,,,,,
+2439,2440.0,Dry Ck 2017/11/11 10:55 0.34m WJH,2017-11-11,10:55,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,34,,,WJH,,,,,HD527,-33.0,GB699,-5.83,,,,,,
+2440,2441.0,MS-4 2017/11/11 12:47 WJH,2017-11-11,12:47,Sagehorn,MS4,Water,Well water,,,,,,,,,,,WJH,,,,,HD527,-28.0,GB699,-5.23,,,,,,
+2441,2442.0,Dry Ck 2017/11/11 15:15 WJH 0.33m,2017-11-11,15:15,Sagehorn,Dry Creek,Water,Stream water,,,,,,,,33,,,WJH,,,,,HD527,-33.3,GB699,-5.89,,,,,,
+2442,2443.0,10/21/17 800,2017-10-21,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD527,-44.5,GB699,-7.65,,,,,,
+2452,2453.0,11/4/17 900,2017-11-04,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD527,-22.3,GB699,-5.28,,,,,,
+2453,2454.0,11/9/17 700,2017-11-09,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD527,-27.5,GB699,-6.33,,,,,,
+2454,2455.0,11/10/17 700,2017-11-10,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD527,-29.3,GB699,-6.24,,,,,,
+2455,2456.0,11/11/17 900,2017-11-11,9:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD527,-35.2,GB699,-6.51,,,,,,
+2456,2457.0,11/13/17 800,2017-11-13,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD527,-25.5,GB699,-6.55,,,,,,
+2696,2697.0,1/18/18 730,2018-01-18,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD532,-22.1,GB704,-3.46,,,,,,
+2697,2698.0,1/20/18 730,2018-01-20,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD532,-26.8,GB704,-6.2,,,,,,
+2698,2699.0,3/15/18 800,2018-03-15,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD532,-83.2,GB704,-12.66,,,,,,
+2699,2700.0,3/9/18 530,2018-03-09,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD532,-13.0,GB704,-3.11,,,,,,
+2700,2701.0,3/22/18 1100,2018-03-22,11:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD532,-39.8,GB704,-6.5,,,,,,
+2701,2702.0,1/22/18 730,2018-01-22,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD532,-67.6,GB704,-10.47,,,,,,
+2702,2703.0,1/26/18 600,2018-01-26,6:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-63.3,GB705,-10.29,,,,,,
+2703,2704.0,3/2/18 530,2018-03-02,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-31.1,GB705,-6.14,,,,,,
+2704,2705.0,3/8/18 700,2018-03-08,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-34.1,GB705,-5.61,,,,,,
+2705,2706.0,3/3/18 700,2018-03-03,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-46.6,GB705,-8.73,,,,,,
+2706,2707.0,3/16/18 730,2018-03-16,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-58.7,GB705,-8.92,,,,,,
+2707,2708.0,3/10/18 700,2018-03-10,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-26.7,GB705,-5.37,,,,,,
+2708,2709.0,3/14/18 630,2018-03-14,6:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-31.4,GB705,-6.05,,,,,,
+2709,2710.0,3/25/18 730,2018-03-25,7:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-50.1,GB705,-9.45,,,,,,
+2710,2711.0,1/28/18 800,2018-01-28,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-17.8,GB705,-5.04,,,,,,
+2711,2712.0,3/21/18 800,2018-03-21,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-84.6,GB705,-11.57,,,,,,
+2712,2713.0,3/4/18 1400,2018-03-04,14:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-78.7,GB705,-11.78,,,,,,
+2713,2714.0,3/24/18 1130,2018-03-20,11:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-26.7,GB705,-5.35,,,,,,
+2714,2715.0,3/13/18 530,2018-03-13,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-45.6,GB705,-6.74,,,,,,
+2715,2716.0,1/25/18 700,2018-01-25,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-42.9,GB705,-7.41,,,,,,
+2716,2717.0,1/16/2018 700,2018-01-16,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-43.6,GB705,-6.15,,,,,,
+2717,2718.0,1/19/18 700,2018-01-19,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-22.3,GB705,-4.38,,,,,,
+2718,2719.0,3/1/18 530,2018-03-01,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-56.0,GB705,-8.44,,,,,,
+2719,2720.0,3/17/18 1100,2018-03-17,11:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-60.6,GB705,-9.31,,,,,,
+2720,2721.0,1/12/18 600,2018-01-12,6:00,Sagehorn,,Water,Rain,,,,,,,,,,,WJH,,,,,HD533,-34.3,GB705,-5.41,,,,,,
+2890,2891.0,4/16/18 800,2018-04-16,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD537,-47.9,GB708,-7.9,,,,,,
+2891,2892.0,4/28/18 700,2018-04-28,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD537,-42.2,GB708,-7.12,,,,,,
+2892,2893.0,5/26/18 530,2018-05-26,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD537,-43.8,GB708,-6.38,,,,,,
+2893,2894.0,4/17/18 530,2018-04-17,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD537,-30.0,GB708,-10.61,,,,,,
+2894,2895.0,4/7/18 700,2018-04-07,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD537,-43.3,GB708,-6.19,,,,,,
+2895,2896.0,4/8/18 800,2018-04-08,8:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD537,-40.8,GB708,-6.48,,,,,,
+2896,2897.0,4/29/18 700,2018-04-29,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD537,-23.6,GB708,-4.55,,,,,,
+2897,2898.0,4/12/18 700,2018-04-12,7:00,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD538,-25.6,GB709,-5.2,,,,,,
+2898,2899.0,4/6/18 530,2018-04-06,5:30,Sagehorn,,Water,Rain,,,,,,,,,,,,,,,,HD538,-69.7,GB709,-9.71,,,,,,
+2911,2912.0,SAGE 166 2018-06-08 WJH,2018-06-08,,Sagehorn,T166/NT ADJ,Tree,Stem,,166.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-56.7,GB709,-7.14,,,,,,
+2920,2921.0,SAGE T5 WJH 2018-08-08 15:10,2018-08-08,15:10,Sagehorn,T5/206,Tree,Stem,,5.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-61.1,GB709,-8.32,,,,,,
+2929,2930.0,SAGE T4 2018-08-08 15:05 WJH,2018-08-08,15:05,Sagehorn,T4/205,Tree,Stem,,4.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-61.8,GB709,-8.12,,,,,,
+2938,2939.0,SAGE T3 2018-08-08 15:00 WJH,2018-08-08,15:00,Sagehorn,T3/204,Tree,Stem,,3.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-58.6,GB709,-7.61,,,,,,
+2947,2948.0,SAGE T1 WJH 2018-08-08 14:55,2018-08-08,14:55,Sagehorn,T1/207,Tree,Stem,,1.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-58.2,GB709,-8.02,,,,,,
+2956,2957.0,SAGE T166 WJH 2018-08-08 15:55,2018-08-08,15:55,Sagehorn,T166/NT ADJ,Tree,Tree core,,166.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-58.3,GB709,-8.04,,,,,,
+2957,2958.0,SAGE 4 WJH 2018-06-08,2018-06-08,,Sagehorn,T4/205,Tree,Stem,,4.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-59.5,GB709,-8.18,,,,,,
+2964,2965.0,SAGE T167 WJH 2018-08-08 15:30,2018-08-08,15:30,Sagehorn,T167/208,Tree,Tree core,,167.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-61.6,GB709,-8.61,,,,,,
+2976,2977.0,SAGE #167 WJH 2018-06-08,2018-06-08,,Sagehorn,T167/208,Tree,Stem,,167.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-58.2,GB709,-7.47,,,,,,
+2978,2979.0,SAGE 1 WJH 2018-06-08,2018-06-08,,Sagehorn,T1/207,Tree,Stem,,1.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-54.9,GB709,-7.46,,,,,,
+2986,2987.0,SAGE 5 WJH 2018-06-08,2018-06-08,,Sagehorn,T5/206,Tree,Stem,,5.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD538,-55.5,GB709,-7.96,,,,,,
+2993,2994.0,M1003 11/11/17 12:45 45 cm,2017-11-11,12:45,Sagehorn,"3 m W of T1, sagehorn, under canopy",Soil or rock,Drilled material,Soil,,,,,,0.45,45,,0.1562868094,WJH,unsat. grey light yellow clay rich w. sand,,,,HD538,-39.8,GB709,-6.38,,,,,0.1352,0.0715
+3002,3003.0,M1004 11/11/17 12:45 61 cm,2017-11-11,12:45,Sagehorn,"3 m W of T1, sagehorn, under canopy",Soil or rock,Drilled material,Saprolite,,,,,,0.61,61,,0.1239519285,WJH,unsat. clay rich sandy grey blue,,,,HD539,-55.9,GB710,-7.37,,,,,0.1103,0.0707
+3003,3004.0,M1002 11/11/17 12:45 30 cm,2017-11-11,,Sagehorn,"3 m W of T1, sagehorn, under canopy",Soil or rock,Drilled material,Soil,,,,,,0.3,30,,0.1429519369,WJH,"denser than at 10 cm, some sand, clayey,unsat",,,,HD539,-41.0,GB710,-4.87,,,,,0.1251,0.0689
+3007,3008.0,SAGE 4 2017-11-11 12:53,2017-11-11,12:53,Sagehorn,T4/205,Tree,Stem,,4.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD539,-49.0,GB710,-5.81,,,,,,
+3016,3017.0,M1001 11/11/17 12:45 10 cm,2017-11-11,,Sagehorn,"3 m W of T1, sagehorn, under canopy",Soil or rock,Drilled material,Soil,,,,,,0.1,10,,0.1231450003,WJH,"sandy ,light brown, unsaturated",,,,HD539,-48.6,GB710,-6.93,,,,,0.1096,0.0713
+3020,3021.0,M1005 11/11/17 12:45 78 cm,2017-11-11,12:45,Sagehorn,"3 m W of T1, sagehorn, under canopy",Soil or rock,Drilled material,Saprolite,,,,,,0.78,78,,0.1512103848,WJH,"small root, usat, clay rich grey yellow. stopped by a rock 2 cm later",,,,HD539,-57.3,GB710,-8.25,,,,,0.1313,0.0457
+3021,3022.0,SAGE 3 2017-11-11 12:45,2017-11-11,12:45,Sagehorn,T3/204,Tree,Stem,,3.0,,Oregon white (Garry) oak,QUGA,,,,,,,,,,,HD539,-51.9,GB710,-7.71,,,,,,
+3024,3025.0,SAGE 1 2017-11-11 12:40 WJH,2017-11-11,12:40,Sagehorn,T1/207,Tree,Stem,,1.0,,Oregon white (Garry) oak,QUGA,,,,,,WJH,,,,,HD539,-51.7,GB710,-6.7,,,,,,
+3568,3569.0,9/30/18 1700,2018-09-30,17:00,Sagehorn,"Renee's house, Sagehorn",Water,Rain,,,,,,,,,,,,,,,,HD555,-5.3,GB725,-2.57,,,,,,
+3591,3592.0,2/2/13 600,2018-02-02,6:00,Sagehorn,"Renee's house, Sagehorn",Water,Rain,,,,,,,,,,,,Assuming 2/2/13 was meant to be 2/2/18,,,,HD555,-89.4,GB725,-12.38,,,,,,
+3601,3602.0,1/7/18 530,2018-01-07,5:30,Sagehorn,"Renee's house, Sagehorn",Water,Rain,,,,,,,,,,,,,,,,HD556,-89.613837,GB726,-13.53,,,,,,

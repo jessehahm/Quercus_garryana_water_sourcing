@@ -1,0 +1,3 @@
+This folder contains subfolders of raw data ('Data'), output manuscript figures ('Figs'), and Python code files in the Jupyter notebook format ('Plotting scripts') to accompany the manuscript by Hahm et al. on Quercus garryana water sourcing dynamics. The python scripts depend on common libraries (e.g. Pandas) that are included in most scientific python distributions (‘Anaconda’ is a good way to get python—and these scripts-up and running). 
+
+For questions/comments, please contact Jesse Hahm (wham at sfu dot ca).
